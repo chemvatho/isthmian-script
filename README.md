@@ -45,6 +45,9 @@ These features are compared against phonotactic priors derived from Proto-Mixe-Z
 
 ### Critical Methodological Issue: What Does MS20 Mark?
 
+![real_image_MS20](https://github.com/chemvatho/isthmian-script/blob/main/image/MS20_1.png)
+
+
 The validity of the analysis depends on interpreting MS20 (the most frequent sign). Our comparison with **Maya script** reveals:
 
 | Feature | Maya Script | Isthmian Script |
