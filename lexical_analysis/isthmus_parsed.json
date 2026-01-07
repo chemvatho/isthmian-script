@@ -1,0 +1,3413 @@
+{
+  "metadata": {
+    "title": "Isthmus Script Languages Comparative Wordlist",
+    "total_entries": 240,
+    "languages": [
+      "otomian",
+      "trique",
+      "proto_mixtec",
+      "Unnamed: 5",
+      "zapotec_isthmus",
+      "Unnamed: 7",
+      "mazahua",
+      "totonac",
+      "popoluca",
+      "huave",
+      "chontal"
+    ],
+    "families": {
+      "Otomanguean": {
+        "Oto-Pamean": [
+          "otomian",
+          "mazahua"
+        ],
+        "Mixtecan": [
+          "trique",
+          "proto_mixtec",
+          "mixtec_tlaxiaco"
+        ],
+        "Zapotecan": [
+          "zapotec_isthmus",
+          "zapotec_xhon"
+        ]
+      },
+      "Mixe-Zoquean": [
+        "popoluca"
+      ],
+      "Totonacan": [
+        "totonac"
+      ],
+      "Huavean (isolate)": [
+        "huave"
+      ],
+      "Tequistlatecan": [
+        "chontal"
+      ]
+    }
+  },
+  "completeness": {
+    "otomian": 239,
+    "trique": 207,
+    "proto_mixtec": 72,
+    "Unnamed: 5": 229,
+    "zapotec_isthmus": 220,
+    "Unnamed: 7": 162,
+    "mazahua": 90,
+    "totonac": 185,
+    "popoluca": 131,
+    "huave": 149,
+    "chontal": 226
+  },
+  "entries": [
+    {
+      "id": 1.0,
+      "gloss": "I",
+      "forms": {
+        "otomian": "nuga̲",
+        "trique": "ùnj",
+        "proto_mixtec": "*yuʔu",
+        "Unnamed: 5": "na (informal), ri (formal)",
+        "zapotec_isthmus": "naa",
+        "Unnamed: 7": "nheda, nhaa",
+        "totonac": "ik",
+        "popoluca": "uts",
+        "huave": "xiok",
+        "chontal": "iyáh"
+      }
+    },
+    {
+      "id": 2.0,
+      "gloss": "you (singular)",
+      "forms": {
+        "otomian": "nu'i",
+        "trique": "sò', dì' (intimate)",
+        "Unnamed: 5": "ro'o (informal), ni'in (formal)",
+        "zapotec_isthmus": "lii",
+        "Unnamed: 7": "lhe' (informal), le'e (formal)",
+        "totonac": ", -na",
+        "popoluca": "mich",
+        "huave": "iok",
+        "chontal": "imáh"
+      }
+    },
+    {
+      "id": 3.0,
+      "gloss": "he",
+      "forms": {
+        "otomian": "nu'ä, nä'ä",
+        "trique": "so'",
+        "Unnamed: 5": "ra, yɨ",
+        "zapotec_isthmus": "laa1be2",
+        "Unnamed: 7": "lebe",
+        "popoluca": "je'",
+        "huave": "ñu",
+        "chontal": "jiquiya"
+      }
+    },
+    {
+      "id": 4.0,
+      "gloss": "we",
+      "forms": {
+        "otomian": "nugawi",
+        "trique": "ní' (incl.), núj (excl.)",
+        "Unnamed: 5": "yo'o, ri; nde'e",
+        "zapotec_isthmus": "laa1nu2 (incl.), laa1du2 (excl.)",
+        "Unnamed: 7": "nheto'",
+        "popoluca": "ïjtsat",
+        "huave": "kunar, kunajts (incl.); \nxinan (excl.)",
+        "chontal": "iyángc'"
+      }
+    },
+    {
+      "id": 5.0,
+      "gloss": "you (plural)",
+      "forms": {
+        "otomian": "nu'iwi",
+        "trique": "soj",
+        "Unnamed: 5": "ndo",
+        "zapotec_isthmus": "laa1tu2",
+        "Unnamed: 7": "le’en, le’eque",
+        "popoluca": "míchat",
+        "huave": "inan",
+        "chontal": "imángc'"
+      }
+    },
+    {
+      "id": 6.0,
+      "gloss": "they",
+      "forms": {
+        "otomian": "nu’u",
+        "trique": "nii",
+        "Unnamed: 5": "nda",
+        "zapotec_isthmus": "laa1ca1be2",
+        "Unnamed: 7": "le’equebe",
+        "huave": "ñuaf",
+        "chontal": "jiniya"
+      }
+    },
+    {
+      "id": 7.0,
+      "gloss": "this",
+      "forms": {
+        "otomian": "nuna",
+        "trique": "nihánj",
+        "proto_mixtec": "*weyè",
+        "Unnamed: 5": "yo'o, xa'a",
+        "zapotec_isthmus": "ri’3",
+        "totonac": "u",
+        "huave": "ki",
+        "chontal": "jitaha"
+      }
+    },
+    {
+      "id": 8.0,
+      "gloss": "that",
+      "forms": {
+        "otomian": "nu'ä",
+        "trique": "dan, yo'",
+        "proto_mixtec": "*yuku à",
+        "Unnamed: 5": "yukan",
+        "zapotec_isthmus": "ca2",
+        "totonac": "a",
+        "popoluca": "yajtï’n",
+        "chontal": "jicuhua"
+      }
+    },
+    {
+      "id": 9.0,
+      "gloss": "here",
+      "forms": {
+        "otomian": "nuwa",
+        "trique": "nihánj",
+        "Unnamed: 5": "yo'o, xa'a",
+        "zapotec_isthmus": "che1rí’2",
+        "totonac": "u",
+        "popoluca": "yam",
+        "huave": "ñinga",
+        "chontal": "faha"
+      }
+    },
+    {
+      "id": 10.0,
+      "gloss": "there",
+      "forms": {
+        "otomian": "nu'bu̲",
+        "trique": "yo', ti'yaj (distal)",
+        "Unnamed: 5": "kaa",
+        "zapotec_isthmus": "che1ri1ca’3",
+        "totonac": "aná",
+        "popoluca": "jem, yajm",
+        "huave": "tikej",
+        "chontal": "jiłuhwa, jipuhwa"
+      }
+    },
+    {
+      "id": 11.0,
+      "gloss": "who",
+      "forms": {
+        "otomian": "togo",
+        "trique": "me síí, me níí (fem.)",
+        "Unnamed: 5": "navi, unku",
+        "zapotec_isthmus": "tu2",
+        "Unnamed: 7": "nhoo",
+        "totonac": "ti",
+        "huave": "jang",
+        "chontal": "nay, ne"
+      }
+    },
+    {
+      "id": 12.0,
+      "gloss": "what",
+      "forms": {
+        "otomian": "temu",
+        "trique": "me",
+        "Unnamed: 5": "nda, ndavi, unku",
+        "zapotec_isthmus": "gu1ná’2",
+        "Unnamed: 7": "bii",
+        "totonac": "tu",
+        "huave": "kuñ",
+        "chontal": "de"
+      }
+    },
+    {
+      "id": 13.0,
+      "gloss": "where",
+      "forms": {
+        "otomian": "ho'bu̲",
+        "trique": "me rej, tonj",
+        "Unnamed: 5": "nuu",
+        "zapotec_isthmus": "ni, ra, gu1ná’2",
+        "Unnamed: 7": "gaaxha",
+        "totonac": "nikú",
+        "huave": "ke(j)",
+        "chontal": "be"
+      }
+    },
+    {
+      "id": 14.0,
+      "gloss": "when",
+      "forms": {
+        "otomian": "hä'mu̲",
+        "trique": "me aman, me orá",
+        "proto_mixtec": "*awà",
+        "Unnamed: 5": "nama, na, nuu",
+        "zapotec_isthmus": "pad1xí3, ora",
+        "totonac": "ikxnicu",
+        "huave": "ngaty (past), \nngoy (future)",
+        "chontal": "dej hora"
+      }
+    },
+    {
+      "id": 15.0,
+      "gloss": "how",
+      "forms": {
+        "otomian": "hanja('ä)",
+        "trique": "dàj",
+        "proto_mixtec": "*ndese",
+        "Unnamed: 5": "nasaa",
+        "zapotec_isthmus": "xi1 caasi2",
+        "totonac": "latayá",
+        "huave": "keñ",
+        "chontal": "de ts'ihíc'"
+      }
+    },
+    {
+      "id": 16.0,
+      "gloss": "not",
+      "forms": {
+        "otomian": "hin-",
+        "trique": "ne, sè",
+        "Unnamed: 5": "tu, koto, ko ansu",
+        "zapotec_isthmus": "nin",
+        "huave": "ngo",
+        "chontal": "ahí"
+      }
+    },
+    {
+      "id": 17.0,
+      "gloss": "all",
+      "forms": {
+        "otomian": "ta̲t’i, ga̲tho",
+        "trique": "cunù'",
+        "Unnamed: 5": "ndi'i",
+        "zapotec_isthmus": "gui1du2bi1, gui1rá’2",
+        "Unnamed: 7": "yogo, dote, bala",
+        "huave": "miaw",
+        "chontal": "ajaf'ga, dalay, jaway"
+      }
+    },
+    {
+      "id": 18.0,
+      "gloss": "many",
+      "forms": {
+        "otomian": "ndunthe, nts'e̲di",
+        "trique": "me dòj",
+        "Unnamed: 5": "kua'a, kini",
+        "zapotec_isthmus": "sta1le2",
+        "Unnamed: 7": "zan",
+        "totonac": "snún, loko",
+        "popoluca": "mayo’y",
+        "huave": "xuwe",
+        "chontal": "agwegah, axpéh, mufca"
+      }
+    },
+    {
+      "id": 19.0,
+      "gloss": "some",
+      "forms": {
+        "otomian": "naxtui",
+        "trique": "dòj",
+        "Unnamed: 5": "sava, uu",
+        "chontal": "algo (Spanish)"
+      }
+    },
+    {
+      "id": 20.0,
+      "gloss": "few",
+      "forms": {
+        "otomian": "tx'u̲tho",
+        "trique": "dòj",
+        "Unnamed: 5": "lo'o, xaku, tɨ'lɨ",
+        "zapotec_isthmus": "caad1xi2, hua1xié’3",
+        "Unnamed: 7": "lhate",
+        "totonac": "agsú, tantsú",
+        "huave": "tyukay",
+        "chontal": "awatáh, duninih"
+      }
+    },
+    {
+      "id": 21.0,
+      "gloss": "other",
+      "forms": {
+        "otomian": "ma ‘na",
+        "trique": "yo'ó",
+        "proto_mixtec": "*tuku",
+        "Unnamed: 5": "ɨnka",
+        "zapotec_isthmus": "sti3, sto3bi1",
+        "totonac": "tunu",
+        "chontal": "ogwena"
+      }
+    },
+    {
+      "id": 22.0,
+      "gloss": "one",
+      "forms": {
+        "otomian": "n'aha",
+        "trique": "ò, yo'ò",
+        "Unnamed: 5": "ɨɨn",
+        "zapotec_isthmus": "tobi",
+        "Unnamed: 7": "to",
+        "mazahua": "d'aja",
+        "totonac": "túm",
+        "popoluca": "tu'c",
+        "huave": "anop",
+        "chontal": "anuli"
+      }
+    },
+    {
+      "id": 23.0,
+      "gloss": "two",
+      "forms": {
+        "otomian": "yoho",
+        "trique": "vìj",
+        "proto_mixtec": "*uwi",
+        "Unnamed: 5": "uvi",
+        "zapotec_isthmus": "chu1pa2",
+        "Unnamed: 7": "chope",
+        "mazahua": "yeje",
+        "totonac": "tuy",
+        "popoluca": "meche",
+        "huave": "ajpaw",
+        "chontal": "oguéh"
+      }
+    },
+    {
+      "id": 24.0,
+      "gloss": "three",
+      "forms": {
+        "otomian": "hñu",
+        "trique": "va'nùj",
+        "proto_mixtec": "*one",
+        "Unnamed: 5": "uni",
+        "zapotec_isthmus": "chon1na2",
+        "Unnamed: 7": "shone",
+        "mazahua": "jñiji",
+        "totonac": "tutu",
+        "popoluca": "túgup",
+        "huave": "arujpaw",
+        "chontal": "afanéh"
+      }
+    },
+    {
+      "id": 25.0,
+      "gloss": "four",
+      "forms": {
+        "otomian": "goho",
+        "trique": "ca'ànj",
+        "proto_mixtec": "*kɨwìʔ",
+        "Unnamed: 5": "kuun",
+        "zapotec_isthmus": "tapa",
+        "Unnamed: 7": "tape",
+        "mazahua": "nziyo",
+        "totonac": "tati",
+        "popoluca": "máctaxp",
+        "huave": "apokiuf",
+        "chontal": "amalbu"
+      }
+    },
+    {
+      "id": 26.0,
+      "gloss": "five",
+      "forms": {
+        "otomian": "ku̲t’a",
+        "trique": "ùn', u'ùn'",
+        "proto_mixtec": "*oʔò",
+        "Unnamed: 5": "u'un",
+        "zapotec_isthmus": "gaayu'",
+        "Unnamed: 7": "gayo'",
+        "mazahua": "tsicha",
+        "totonac": "kitsis",
+        "popoluca": "mogoxp",
+        "huave": "akokiaf",
+        "chontal": "amagueh"
+      }
+    },
+    {
+      "id": 27.0,
+      "gloss": "big",
+      "forms": {
+        "otomian": "dätä",
+        "proto_mixtec": "*kaʔnu",
+        "Unnamed: 5": "ka'un, chee",
+        "zapotec_isthmus": "ngo2la1, xirooba'",
+        "Unnamed: 7": "daxhen, cha’o",
+        "mazahua": "nojo",
+        "totonac": "langa",
+        "popoluca": "mïj",
+        "huave": "-dam",
+        "chontal": "ujxi, agwegah (an)"
+      }
+    },
+    {
+      "id": 28.0,
+      "gloss": "long",
+      "forms": {
+        "otomian": "maki",
+        "trique": "xcààn",
+        "Unnamed: 5": "kani",
+        "zapotec_isthmus": "na1yu’3la’1, naziuula'",
+        "Unnamed: 7": "tona",
+        "totonac": "slmán, laslmán",
+        "chontal": "idogui"
+      }
+    },
+    {
+      "id": 29.0,
+      "gloss": "wide",
+      "forms": {
+        "otomian": "nxidi, xogi",
+        "trique": "cachrà'",
+        "Unnamed: 5": "xicha",
+        "zapotec_isthmus": "nabata, na1la2ga1",
+        "totonac": "pulanga, tilanga",
+        "huave": "tarrap",
+        "chontal": "expats'gui, ewofma, luxpayyah"
+      }
+    },
+    {
+      "id": 30.0,
+      "gloss": "thick",
+      "forms": {
+        "otomian": "mpidi, ndä",
+        "trique": "ca'nù', mànj",
+        "Unnamed: 5": "kukun",
+        "zapotec_isthmus": "na1na1na2",
+        "Unnamed: 7": "yize, chej",
+        "totonac": "kelanga (person)",
+        "huave": "tsapaj",
+        "chontal": "ibinggui"
+      }
+    },
+    {
+      "id": 31.0,
+      "gloss": "heavy",
+      "forms": {
+        "otomian": "hñu̲",
+        "trique": "èè",
+        "proto_mixtec": "*weyi",
+        "Unnamed: 5": "vee",
+        "Unnamed: 7": "zi'",
+        "totonac": "trinka",
+        "chontal": "agundah"
+      }
+    },
+    {
+      "id": 32.0,
+      "gloss": "small",
+      "forms": {
+        "otomian": "tx'u̲lo",
+        "trique": "cunii",
+        "Unnamed: 5": "lulu, lo'o",
+        "zapotec_isthmus": "na1biu2xe2, nahuiini'",
+        "Unnamed: 7": "dao, rhinco",
+        "totonac": "lagtsu",
+        "huave": "namix",
+        "chontal": "ahuinuh"
+      }
+    },
+    {
+      "id": 33.0,
+      "gloss": "short",
+      "forms": {
+        "otomian": "tx'u̲ki, nkohi",
+        "trique": "chrè'",
+        "Unnamed: 5": "lɨkɨ",
+        "zapotec_isthmus": "nachucu",
+        "chontal": "agahua, ahua"
+      }
+    },
+    {
+      "id": 34.0,
+      "gloss": "narrow",
+      "forms": {
+        "otomian": "nts'it'i, nts'i'mi",
+        "trique": "catùùn, chrùj",
+        "Unnamed: 5": "tuu",
+        "zapotec_isthmus": "na1bé’2",
+        "popoluca": "atúguic",
+        "chontal": "adansca, łijca"
+      }
+    },
+    {
+      "id": 35.0,
+      "gloss": "thin",
+      "forms": {
+        "otomian": "nts'u̲t'i",
+        "trique": "catùn' (flat obj.)",
+        "Unnamed: 5": "kuɨñɨ, xii, leke",
+        "zapotec_isthmus": "na1la1se’2",
+        "Unnamed: 7": "lhase",
+        "totonac": "ketsú",
+        "popoluca": "péjay",
+        "chontal": "axalóf, ałá"
+      }
+    },
+    {
+      "id": 36.0,
+      "gloss": "woman",
+      "forms": {
+        "otomian": "be̲hñä",
+        "trique": "chanà",
+        "proto_mixtec": "*yáʔą́ʔ",
+        "Unnamed: 5": "ña, ña ɨ'ɨ",
+        "zapotec_isthmus": "gunaa",
+        "Unnamed: 7": "nhol'le",
+        "mazahua": "nzhixu",
+        "totonac": "puxkat",
+        "popoluca": "to’xay",
+        "huave": "najta",
+        "chontal": "łagahno"
+      }
+    },
+    {
+      "id": 37.0,
+      "gloss": "man (adult male)",
+      "forms": {
+        "otomian": "ño̲ho̲",
+        "trique": "chii, no'o, snó'o",
+        "proto_mixtec": "*teye",
+        "Unnamed: 5": "taa",
+        "zapotec_isthmus": "nguiiu, ngola (male)",
+        "Unnamed: 7": "beyo",
+        "totonac": "chiskú",
+        "popoluca": "qui’chay",
+        "huave": "naxuy",
+        "chontal": "galxáns"
+      }
+    },
+    {
+      "id": 38.0,
+      "gloss": "man (human being)",
+      "forms": {
+        "otomian": "jä'i",
+        "trique": "yuviì",
+        "proto_mixtec": "*yè yɨwɨʔ",
+        "Unnamed: 5": "ɨvɨ",
+        "zapotec_isthmus": "bin1ni2, guidxi",
+        "Unnamed: 7": "bene",
+        "popoluca": "jayau",
+        "huave": "ñipinaj",
+        "chontal": "galxans"
+      }
+    },
+    {
+      "id": 39.0,
+      "gloss": "child (a youth)",
+      "forms": {
+        "otomian": "bätsi",
+        "trique": "cunii, ne'ej (small)",
+        "Unnamed: 5": "lulu, lili",
+        "zapotec_isthmus": "ba'du', xiiñi'",
+        "Unnamed: 7": "bi'-",
+        "mazahua": "t'ii",
+        "totonac": "skata",
+        "popoluca": "-chwáy",
+        "huave": "ñunch, kwal",
+        "chontal": "łahuac'wa, \nlapimi (baby)"
+      }
+    },
+    {
+      "id": 40.0,
+      "gloss": "wife",
+      "forms": {
+        "otomian": "be̲hñä",
+        "trique": "nicà",
+        "Unnamed: 5": "(ña)sɨ'ɨ",
+        "totonac": "puskát",
+        "chontal": "łabeno"
+      }
+    },
+    {
+      "id": 41.0,
+      "gloss": "husband",
+      "forms": {
+        "otomian": "ndo̲",
+        "trique": "nicà",
+        "proto_mixtec": "*yɨɨʔ",
+        "Unnamed: 5": "ii",
+        "Unnamed: 7": "bene xhi’o",
+        "totonac": "takoló",
+        "huave": "no",
+        "chontal": "łaguweh"
+      }
+    },
+    {
+      "id": 42.0,
+      "gloss": "mother",
+      "forms": {
+        "otomian": "nänä",
+        "trique": "nii",
+        "Unnamed: 5": "nana",
+        "zapotec_isthmus": "jñaa2",
+        "Unnamed: 7": "xnha’",
+        "totonac": "tsi",
+        "popoluca": "mam",
+        "huave": "mam",
+        "chontal": "łamamah"
+      }
+    },
+    {
+      "id": 43.0,
+      "gloss": "father",
+      "forms": {
+        "otomian": "tada",
+        "trique": "rej",
+        "Unnamed: 5": "tata",
+        "zapotec_isthmus": "bixhoze",
+        "Unnamed: 7": "xa",
+        "mazahua": "taa",
+        "totonac": "tikú, tlat",
+        "popoluca": "tet",
+        "huave": "tyety",
+        "chontal": "łahal-lih"
+      }
+    },
+    {
+      "id": 44.0,
+      "gloss": "animal",
+      "forms": {
+        "otomian": "zu'we",
+        "trique": "xcuu",
+        "proto_mixtec": "*kɨtɨʔ",
+        "Unnamed: 5": "kɨtɨ",
+        "zapotec_isthmus": "ma1ni’3",
+        "Unnamed: 7": "be",
+        "mazahua": "nzhodú",
+        "totonac": "kitsistanka",
+        "popoluca": "animat (Spanish)",
+        "chontal": "łinneja"
+      }
+    },
+    {
+      "id": 45.0,
+      "gloss": "fish",
+      "forms": {
+        "otomian": "hwä",
+        "trique": "xcuaj",
+        "Unnamed: 5": "chaka",
+        "zapotec_isthmus": "benda",
+        "Unnamed: 7": "bela'",
+        "mazahua": "jmoo",
+        "totonac": "skiti",
+        "popoluca": "acx",
+        "huave": "katy, \n-ndok (verb)",
+        "chontal": "ładu"
+      }
+    },
+    {
+      "id": 46.0,
+      "gloss": "bird",
+      "forms": {
+        "otomian": "ts'ints'u̲",
+        "trique": "xtaj",
+        "proto_mixtec": "*tɨ laa",
+        "Unnamed: 5": "saa",
+        "zapotec_isthmus": "ma1ni3 huiini’1",
+        "Unnamed: 7": "bechhoj",
+        "mazahua": "súú",
+        "totonac": "spún",
+        "popoluca": "jojn",
+        "huave": "kuk",
+        "chontal": "łaga, kaguo"
+      }
+    },
+    {
+      "id": 47.0,
+      "gloss": "dog",
+      "forms": {
+        "otomian": "tsat'yo, txu̲ku̲",
+        "trique": "chuvee",
+        "Unnamed: 5": "ina",
+        "zapotec_isthmus": "bi'cu'",
+        "Unnamed: 7": "beco'",
+        "mazahua": "dyoo",
+        "totonac": "chicha",
+        "popoluca": "tac",
+        "huave": "kius",
+        "chontal": "galtsiqui"
+      }
+    },
+    {
+      "id": 48.0,
+      "gloss": "louse",
+      "forms": {
+        "otomian": "t'o",
+        "trique": "xij",
+        "Unnamed: 5": "chuku",
+        "Unnamed: 7": "bese",
+        "mazahua": "too",
+        "totonac": "skata",
+        "chontal": "łayxtał"
+      }
+    },
+    {
+      "id": 49.0,
+      "gloss": "snake",
+      "forms": {
+        "otomian": "pa̲",
+        "trique": "xcuáá",
+        "proto_mixtec": "*kooʔ",
+        "Unnamed: 5": "koo",
+        "zapotec_isthmus": "beenda'",
+        "Unnamed: 7": "bel",
+        "totonac": "luwa",
+        "popoluca": "tsánay",
+        "chontal": "łaynofał"
+      }
+    },
+    {
+      "id": 50.0,
+      "gloss": "worm",
+      "forms": {
+        "otomian": "zu'we, matse̲",
+        "trique": "xlúú",
+        "Unnamed: 5": "tɨkashin, tɨndaku",
+        "zapotec_isthmus": "bi1cu1ti’3",
+        "Unnamed: 7": "beldao",
+        "totonac": "luwa",
+        "chontal": "łabimi"
+      }
+    },
+    {
+      "id": 51.0,
+      "gloss": "tree",
+      "forms": {
+        "otomian": "zaa",
+        "trique": "chruun",
+        "proto_mixtec": "*yutùʔ",
+        "Unnamed: 5": "yutun, yujnu",
+        "zapotec_isthmus": "yaga",
+        "Unnamed: 7": "ya'g",
+        "mazahua": "zanu",
+        "totonac": "kiwi",
+        "popoluca": "cujy",
+        "huave": "xiol",
+        "chontal": "alhec, loli"
+      }
+    },
+    {
+      "id": 52.0,
+      "gloss": "forest",
+      "forms": {
+        "otomian": "mbozaa",
+        "Unnamed: 5": "nuyuxia",
+        "Unnamed: 7": "ya'gdao",
+        "mazahua": "t'eje",
+        "chontal": "galhec'"
+      }
+    },
+    {
+      "id": 53.0,
+      "gloss": "stick (of wood)",
+      "forms": {
+        "otomian": "ma̲i (post)",
+        "Unnamed: 5": "yutun, vitun",
+        "zapotec_isthmus": "yaga",
+        "Unnamed: 7": "xhis",
+        "totonac": "kiwi",
+        "popoluca": "tsïgïc",
+        "chontal": "alhec"
+      }
+    },
+    {
+      "id": 54.0,
+      "gloss": "fruit",
+      "forms": {
+        "otomian": "ixi",
+        "trique": "chruj",
+        "Unnamed: 5": "vixi, nde'e",
+        "zapotec_isthmus": "xuananaxhi",
+        "Unnamed: 7": "dazixe'",
+        "totonac": "xatawakatkiwi",
+        "popoluca": "tüjm",
+        "huave": "kaung",
+        "chontal": "łihas q'uec"
+      }
+    },
+    {
+      "id": 55.0,
+      "gloss": "seed",
+      "forms": {
+        "otomian": "nda̲",
+        "trique": "núú",
+        "Unnamed: 5": "ndɨkɨn",
+        "zapotec_isthmus": "biidxi'",
+        "Unnamed: 7": "binhe, xhi’in",
+        "totonac": "lichanat",
+        "huave": "sajp",
+        "chontal": "galfanúh, łemets"
+      }
+    },
+    {
+      "id": 56.0,
+      "gloss": "leaf",
+      "forms": {
+        "otomian": "xi, thot'i",
+        "trique": "coj, ra'a coj",
+        "Unnamed: 5": "nda'a yuku",
+        "zapotec_isthmus": "yaza, bandaga",
+        "Unnamed: 7": "laga",
+        "popoluca": "camdïjc (fallen)",
+        "huave": "up",
+        "chontal": "libela"
+      }
+    },
+    {
+      "id": 57.0,
+      "gloss": "root",
+      "forms": {
+        "otomian": "yu̲",
+        "trique": "yáá",
+        "Unnamed: 5": "yo'o",
+        "zapotec_isthmus": "xcu",
+        "Unnamed: 7": "lhoe",
+        "totonac": "tankaxák",
+        "popoluca": "tícchic",
+        "chontal": "lime"
+      }
+    },
+    {
+      "id": 58.0,
+      "gloss": "bark (of tree)",
+      "forms": {
+        "otomian": "ma̲ts'i",
+        "trique": "quíí",
+        "zapotec_isthmus": "riga",
+        "huave": "-pang, orr (shell)",
+        "chontal": "lixmi q'uec"
+      }
+    },
+    {
+      "id": 59.0,
+      "gloss": "flower",
+      "forms": {
+        "otomian": "do̲ni",
+        "trique": "yaj",
+        "Unnamed: 5": "ita",
+        "zapotec_isthmus": "guie'",
+        "Unnamed: 7": "yej",
+        "totonac": "xánat",
+        "popoluca": "píjic",
+        "chontal": "libah"
+      }
+    },
+    {
+      "id": 60.0,
+      "gloss": "grass",
+      "forms": {
+        "otomian": "pasto (Spanish)",
+        "trique": "coj",
+        "Unnamed: 5": "iva",
+        "zapotec_isthmus": "guixi beu’2/ga’3",
+        "Unnamed: 7": "yixe'",
+        "huave": "sox",
+        "chontal": "lixcua q'uec"
+      }
+    },
+    {
+      "id": 61.0,
+      "gloss": "rope",
+      "forms": {
+        "otomian": "nthähi",
+        "trique": "ya'aa",
+        "Unnamed: 5": "yo'o",
+        "zapotec_isthmus": "doo",
+        "Unnamed: 7": "do",
+        "totonac": "tasiwi",
+        "chontal": "almefla, lene"
+      }
+    },
+    {
+      "id": 62.0,
+      "gloss": "skin (of a person)",
+      "forms": {
+        "otomian": "xifni",
+        "trique": "nuj",
+        "Unnamed: 5": "ñɨɨ",
+        "zapotec_isthmus": "guidi",
+        "Unnamed: 7": "wid",
+        "totonac": "xuwa",
+        "popoluca": "ac",
+        "huave": "tajk",
+        "chontal": "labixmi"
+      }
+    },
+    {
+      "id": 63.0,
+      "gloss": "meat (as in flesh)",
+      "forms": {
+        "otomian": "ngo̲",
+        "trique": "neè",
+        "proto_mixtec": "*koyò",
+        "Unnamed: 5": "neè",
+        "zapotec_isthmus": "bee1la2",
+        "Unnamed: 7": "belha'",
+        "totonac": "liwa",
+        "huave": "uñijk",
+        "chontal": "lixíc'"
+      }
+    },
+    {
+      "id": 64.0,
+      "gloss": "blood",
+      "forms": {
+        "otomian": "ji",
+        "trique": "ton",
+        "proto_mixtec": "*nɨyɨ`ʔ",
+        "Unnamed: 5": "nɨñɨ",
+        "zapotec_isthmus": "rini",
+        "Unnamed: 7": "chhenhe",
+        "totonac": "kagslni",
+        "popoluca": "nípin",
+        "chontal": "łajuáts'"
+      }
+    },
+    {
+      "id": 65.0,
+      "gloss": "bone",
+      "forms": {
+        "otomian": "ndo'yo",
+        "trique": "cúú",
+        "Unnamed: 5": "yɨkɨ",
+        "zapotec_isthmus": "dxita",
+        "Unnamed: 7": "xhita",
+        "totonac": "lukut",
+        "chontal": "legał"
+      }
+    },
+    {
+      "id": 66.0,
+      "gloss": "fat (noun)",
+      "forms": {
+        "otomian": "hnoho, nziki",
+        "trique": "ramii, casté (oil)",
+        "proto_mixtec": "*seʔè",
+        "Unnamed: 5": "xa'an",
+        "zapotec_isthmus": "za",
+        "Unnamed: 7": "za",
+        "huave": "-xap (fatten)",
+        "chontal": "fungi"
+      }
+    },
+    {
+      "id": 67.0,
+      "gloss": "egg",
+      "forms": {
+        "otomian": "mädo, t’axi",
+        "trique": "chruj",
+        "proto_mixtec": "*ndɨwɨʔ",
+        "Unnamed: 5": "ndɨvɨ",
+        "zapotec_isthmus": "dxita",
+        "Unnamed: 7": "zit",
+        "totonac": "kaslwát",
+        "popoluca": "coy",
+        "huave": "um",
+        "chontal": "łabihe"
+      }
+    },
+    {
+      "id": 68.0,
+      "gloss": "horn",
+      "forms": {
+        "otomian": "ndäni",
+        "trique": "cúú raà",
+        "proto_mixtec": "*ndɨkɨʔ",
+        "Unnamed: 5": "ndɨkɨ",
+        "zapotec_isthmus": "ca2chu1",
+        "totonac": "akalókot",
+        "popoluca": "waj",
+        "chontal": "legał"
+      }
+    },
+    {
+      "id": 69.0,
+      "gloss": "tail",
+      "forms": {
+        "otomian": "ts'u̲",
+        "trique": "tucuáán",
+        "proto_mixtec": "*luʔwèʔ",
+        "Unnamed: 5": "su'ma, ndo'ma",
+        "mazahua": "pjixi",
+        "totonac": "taján",
+        "popoluca": "tu’jts",
+        "chontal": "labo"
+      }
+    },
+    {
+      "id": 70.0,
+      "gloss": "feather (rather not down)",
+      "forms": {
+        "otomian": "xi'ni",
+        "proto_mixtec": "*towì",
+        "Unnamed: 5": "tuu",
+        "zapotec_isthmus": "duubi'",
+        "huave": "puik",
+        "chontal": "labimi"
+      }
+    },
+    {
+      "id": 71.0,
+      "gloss": "hair",
+      "forms": {
+        "otomian": "xtä",
+        "trique": "cutziin",
+        "Unnamed: 5": "ixi, idi",
+        "zapotec_isthmus": "guicha",
+        "Unnamed: 7": "dobe",
+        "mazahua": "ñii",
+        "totonac": "chíxit",
+        "popoluca": "cuajy",
+        "huave": "undiats",
+        "chontal": "łajuac"
+      }
+    },
+    {
+      "id": 72.0,
+      "gloss": "head",
+      "forms": {
+        "otomian": "ñäxu̲mu",
+        "trique": "raà",
+        "Unnamed: 5": "yichj",
+        "zapotec_isthmus": "ique",
+        "mazahua": "ndoñi",
+        "totonac": "xakxaka, akxaka",
+        "popoluca": "cópac",
+        "huave": "-mal",
+        "chontal": "łajuac"
+      }
+    },
+    {
+      "id": 73.0,
+      "gloss": "ear",
+      "forms": {
+        "otomian": "zagu",
+        "trique": "xréé",
+        "proto_mixtec": "*loʔo",
+        "Unnamed: 5": "so'o",
+        "zapotec_isthmus": "diaga",
+        "Unnamed: 7": "nhag",
+        "mazahua": "xúrgo",
+        "totonac": "taken",
+        "popoluca": "tátsïc",
+        "huave": "-lajk",
+        "chontal": "laxhmas"
+      }
+    },
+    {
+      "id": 74.0,
+      "gloss": "eye",
+      "forms": {
+        "otomian": "da̲",
+        "trique": "rlij rihaan, rnee rihaan",
+        "Unnamed: 5": "rlij",
+        "zapotec_isthmus": "bezalú",
+        "Unnamed: 7": "yełao",
+        "mazahua": "choo",
+        "totonac": "lakastapu",
+        "popoluca": "wijn",
+        "huave": "-ñujk",
+        "chontal": "lahu"
+      }
+    },
+    {
+      "id": 75.0,
+      "gloss": "nose",
+      "forms": {
+        "otomian": "xiñu",
+        "trique": "tacúún",
+        "proto_mixtec": "*sitìʔ",
+        "Unnamed: 5": "xɨtin",
+        "zapotec_isthmus": "xii",
+        "Unnamed: 7": "xinha'",
+        "mazahua": "xiño",
+        "totonac": "kinkán",
+        "popoluca": "jïjp",
+        "huave": "-xing",
+        "chontal": "łahnał"
+      }
+    },
+    {
+      "id": 76.0,
+      "gloss": "mouth",
+      "forms": {
+        "otomian": "ne",
+        "trique": "tu'va",
+        "proto_mixtec": "*yuʔuʔ",
+        "Unnamed: 5": "yu'u",
+        "zapotec_isthmus": "ruaa",
+        "Unnamed: 7": "chho'a",
+        "mazahua": "nee",
+        "totonac": "kislni",
+        "popoluca": "ajw",
+        "huave": "-mbe",
+        "chontal": "lago"
+      }
+    },
+    {
+      "id": 77.0,
+      "gloss": "tooth (rather not molar)",
+      "forms": {
+        "otomian": "ts'i",
+        "trique": "cúú yan'",
+        "proto_mixtec": "*noʔo",
+        "Unnamed: 5": "un'un",
+        "zapotec_isthmus": "laya",
+        "Unnamed: 7": "lay",
+        "mazahua": "sib'i",
+        "totonac": "tatsán",
+        "popoluca": "tïjts",
+        "huave": "-laik",
+        "chontal": "lahay"
+      }
+    },
+    {
+      "id": 78.0,
+      "gloss": "tongue",
+      "forms": {
+        "otomian": "jähne",
+        "trique": "daa, yaa, laa",
+        "Unnamed: 5": "yaa",
+        "zapotec_isthmus": "diidxa', lud1xi2",
+        "Unnamed: 7": "lochhe'",
+        "mazahua": "b'onkjua (cow)",
+        "totonac": "simakat",
+        "popoluca": "ajw",
+        "huave": "-ñiw",
+        "chontal": "łabał"
+      }
+    },
+    {
+      "id": 79.0,
+      "gloss": "fingernail",
+      "forms": {
+        "otomian": "xa̲",
+        "trique": "cúú sten, cúú ston",
+        "Unnamed: 5": "tiñu",
+        "zapotec_isthmus": "bi1xu1ga2",
+        "Unnamed: 7": "xogo'",
+        "mazahua": "xojo",
+        "totonac": "siján",
+        "popoluca": "xojc",
+        "chontal": "łahnałuc"
+      }
+    },
+    {
+      "id": 80.0,
+      "gloss": "foot",
+      "forms": {
+        "otomian": "wa",
+        "trique": "tacóó",
+        "Unnamed: 5": "xa'a, sɨ'ɨn",
+        "zapotec_isthmus": "batañee",
+        "Unnamed: 7": "ni'a",
+        "mazahua": "nguaa",
+        "totonac": "tujún",
+        "popoluca": "ta’n",
+        "huave": "-lyej",
+        "chontal": "lahmis"
+      }
+    },
+    {
+      "id": 81.0,
+      "gloss": "leg",
+      "forms": {
+        "otomian": "xinthe",
+        "trique": "tacóó",
+        "Unnamed: 5": "san'da",
+        "zapotec_isthmus": "bid1xi3ñee1, batañee",
+        "Unnamed: 7": "ni'a",
+        "mazahua": "chjange",
+        "totonac": "tuntún",
+        "chontal": "lahmis"
+      }
+    },
+    {
+      "id": 82.0,
+      "gloss": "knee",
+      "forms": {
+        "otomian": "ñähmu",
+        "trique": "raà rùj",
+        "Unnamed: 5": "yɨkɨ xɨtɨ",
+        "zapotec_isthmus": "xibi",
+        "Unnamed: 7": "xhib",
+        "mazahua": "ñijmo",
+        "totonac": "tsokosni",
+        "huave": "kos",
+        "chontal": "łengone"
+      }
+    },
+    {
+      "id": 83.0,
+      "gloss": "hand",
+      "forms": {
+        "otomian": "ye̲",
+        "trique": "ra'a",
+        "Unnamed: 5": "nda'a",
+        "zapotec_isthmus": "ba1ta1ná’2",
+        "Unnamed: 7": "nha",
+        "mazahua": "dyee",
+        "totonac": "makán",
+        "popoluca": "cu’",
+        "huave": "wix",
+        "chontal": "lamane"
+      }
+    },
+    {
+      "id": 84.0,
+      "gloss": "wing",
+      "forms": {
+        "otomian": "jwa",
+        "trique": "xcóó",
+        "proto_mixtec": "*ndixì",
+        "Unnamed: 5": "ndɨxin",
+        "zapotec_isthmus": "xhiaa",
+        "mazahua": "juaa",
+        "totonac": "pakán",
+        "popoluca": "quegan",
+        "huave": "ulaim",
+        "chontal": "laxáł"
+      }
+    },
+    {
+      "id": 85.0,
+      "gloss": "belly",
+      "forms": {
+        "otomian": "xefo",
+        "trique": "rque, scoj",
+        "Unnamed: 5": "chii",
+        "zapotec_isthmus": "ndaani'",
+        "Unnamed: 7": "yej le'e",
+        "mazahua": "pjeme",
+        "totonac": "pan",
+        "popoluca": "tínchay",
+        "huave": "-taing",
+        "chontal": "laguhu"
+      }
+    },
+    {
+      "id": 86.0,
+      "gloss": "guts",
+      "forms": {
+        "otomian": "xafo",
+        "trique": "xri'",
+        "proto_mixtec": "*xɨtɨ",
+        "Unnamed: 5": "xitɨ",
+        "zapotec_isthmus": "doo xqui'",
+        "Unnamed: 7": "xjalo",
+        "huave": "-miajts",
+        "chontal": "lugwiyale"
+      }
+    },
+    {
+      "id": 87.0,
+      "gloss": "neck",
+      "forms": {
+        "otomian": "yu̲ga̲",
+        "trique": "chihá",
+        "proto_mixtec": "*sukùʔ",
+        "Unnamed: 5": "sukun",
+        "zapotec_isthmus": "yanni",
+        "Unnamed: 7": "yen",
+        "mazahua": "jiúkjú",
+        "totonac": "pixni",
+        "huave": "-ñok",
+        "chontal": "łajoc'"
+      }
+    },
+    {
+      "id": 88.0,
+      "gloss": "back",
+      "forms": {
+        "otomian": "xu̲tha",
+        "trique": "xráá",
+        "Unnamed: 5": "sata, sɨkɨ",
+        "zapotec_isthmus": "deche",
+        "Unnamed: 7": "coze'",
+        "mazahua": "xútjú",
+        "totonac": "agslchán",
+        "chontal": "laxpulah"
+      }
+    },
+    {
+      "id": 89.0,
+      "gloss": "breast",
+      "forms": {
+        "otomian": "ba, tiñä (chest)",
+        "trique": "tzii",
+        "Unnamed: 5": "xika",
+        "zapotec_isthmus": "xidxi",
+        "Unnamed: 7": "lacho'",
+        "mazahua": "tijmi",
+        "totonac": "tsíkit, kuxmún (chest)",
+        "huave": "jiu",
+        "chontal": "łonxajmah"
+      }
+    },
+    {
+      "id": 90.0,
+      "gloss": "heart",
+      "forms": {
+        "otomian": "mu̲i",
+        "trique": "rá, nimán",
+        "Unnamed: 5": "nɨma, añu",
+        "zapotec_isthmus": "ladxidó'",
+        "Unnamed: 7": "lazdao'",
+        "mazahua": "múbú",
+        "totonac": "nakú",
+        "popoluca": "calitsíc",
+        "chontal": "łonxajmah"
+      }
+    },
+    {
+      "id": 91.0,
+      "gloss": "liver",
+      "forms": {
+        "otomian": "ya",
+        "trique": "rayaj",
+        "Unnamed: 5": "staxa'a",
+        "zapotec_isthmus": "la'dxi'",
+        "Unnamed: 7": "winhe, xcheta",
+        "mazahua": "kjúrga",
+        "totonac": "slwakaka",
+        "huave": "ik",
+        "chontal": "łada"
+      }
+    },
+    {
+      "id": 92.0,
+      "gloss": "to drink",
+      "forms": {
+        "otomian": "tsithe, 'bet'i",
+        "trique": "o",
+        "Unnamed: 5": "ko'o",
+        "zapotec_isthmus": "re', ru1cuii1dxi2",
+        "mazahua": "ziji",
+        "totonac": "kotnún",
+        "popoluca": "tïnucp",
+        "huave": "-ngañu",
+        "chontal": "dixnahma"
+      }
+    },
+    {
+      "id": 93.0,
+      "gloss": "to eat",
+      "forms": {
+        "otomian": "tsi, ñuni",
+        "trique": "chá",
+        "proto_mixtec": "*xexiʔ",
+        "Unnamed: 5": "kaki",
+        "zapotec_isthmus": "ro",
+        "Unnamed: 7": "gwago",
+        "mazahua": "ñona",
+        "totonac": "kuá",
+        "huave": "-ty",
+        "chontal": "didehma"
+      }
+    },
+    {
+      "id": 94.0,
+      "gloss": "to bite",
+      "forms": {
+        "otomian": "tsa",
+        "trique": "chihan'",
+        "Unnamed: 5": "tɨɨn",
+        "zapotec_isthmus": "ro yaa, ruquiichi'",
+        "mazahua": "zakú",
+        "totonac": "skanán",
+        "huave": "-tsamb",
+        "chontal": "digahma"
+      }
+    },
+    {
+      "id": 95.0,
+      "gloss": "to suck",
+      "forms": {
+        "otomian": "juts’i",
+        "trique": "utaan",
+        "Unnamed: 5": "tɨ'vɨ",
+        "zapotec_isthmus": "radxi, rin1dii2",
+        "popoluca": "tïnco’yp",
+        "chontal": "ditsihma"
+      }
+    },
+    {
+      "id": 96.0,
+      "gloss": "to spit",
+      "forms": {
+        "otomian": "tsogi",
+        "trique": "araa talúj, rii talúj",
+        "Unnamed: 5": "ti'vi",
+        "zapotec_isthmus": "ruchá xhin1ni2",
+        "totonac": "isputnán",
+        "chontal": "ditsuł'ihma"
+      }
+    },
+    {
+      "id": 97.0,
+      "gloss": "to vomit",
+      "forms": {
+        "otomian": "e̲i, 'yaha",
+        "trique": "uchráán",
+        "Unnamed: 5": "nduña",
+        "zapotec_isthmus": "r(us)idxi'ba'",
+        "Unnamed: 7": "weyeb",
+        "totonac": "patlanán",
+        "popoluca": "ï’tsp",
+        "huave": "tiorr",
+        "chontal": "dinajhma"
+      }
+    },
+    {
+      "id": 98.0,
+      "gloss": "to blow (as wind)",
+      "forms": {
+        "otomian": "jwixt'i",
+        "trique": "a'yánj",
+        "Unnamed: 5": "kaxa, tɨvɨ",
+        "zapotec_isthmus": "ruchá bi, run1du1bi2",
+        "mazahua": "búú",
+        "chontal": "difushma"
+      }
+    },
+    {
+      "id": 99.0,
+      "gloss": "to breathe",
+      "forms": {
+        "otomian": "nju̲xu̲hñä",
+        "Unnamed: 5": "sita ... tachi",
+        "zapotec_isthmus": "ricaa1 bi3",
+        "chontal": "dunxahma"
+      }
+    },
+    {
+      "id": 100.0,
+      "gloss": "to laugh",
+      "forms": {
+        "otomian": "thede, theni",
+        "trique": "a'nga'",
+        "Unnamed: 5": "kuaku",
+        "zapotec_isthmus": "ru1xid1xi2",
+        "Unnamed: 7": "wexhize’",
+        "huave": "-kwik",
+        "chontal": "dixohma"
+      }
+    },
+    {
+      "id": 101.0,
+      "gloss": "to see",
+      "forms": {
+        "otomian": "nu",
+        "trique": "ne'en, ni'yàj",
+        "proto_mixtec": "*ndeʔya",
+        "Unnamed: 5": "kuni, koto",
+        "zapotec_isthmus": "ru1si1ná2, ruuya'",
+        "Unnamed: 7": "welhe’e",
+        "mazahua": "nuu",
+        "totonac": "ikxilá",
+        "popoluca": "tïne’p",
+        "huave": "-ñi",
+        "chontal": "diximhma"
+      }
+    },
+    {
+      "id": 102.0,
+      "gloss": "to hear",
+      "forms": {
+        "otomian": "o̲de",
+        "trique": "uno",
+        "Unnamed: 5": "kuni so'o",
+        "zapotec_isthmus": "runa diaga",
+        "Unnamed: 7": "chhen",
+        "popoluca": "tïmárap",
+        "huave": "-nge",
+        "chontal": "digyejhma"
+      }
+    },
+    {
+      "id": 103.0,
+      "gloss": "to know (a fact)",
+      "forms": {
+        "otomian": "ät’i",
+        "trique": "chá",
+        "Unnamed: 5": "kuni",
+        "zapotec_isthmus": "nan2na1",
+        "totonac": "katso",
+        "popoluca": "tïnixtacp (people)",
+        "huave": "jaw",
+        "chontal": "diximhma"
+      }
+    },
+    {
+      "id": 104.0,
+      "gloss": "to think",
+      "forms": {
+        "otomian": "mbeni, 'yomfeni",
+        "trique": "avii raà",
+        "Unnamed: 5": "ndo'o ... ini",
+        "zapotec_isthmus": "riní ique",
+        "totonac": "lagpuwan",
+        "huave": "-tiots",
+        "chontal": "digwahma"
+      }
+    },
+    {
+      "id": 105.0,
+      "gloss": "to smell (sense odor)",
+      "forms": {
+        "otomian": "yu̲ni",
+        "trique": "uchrunj",
+        "proto_mixtec": "*siko",
+        "Unnamed: 5": "ta'mi, kuxa'an",
+        "zapotec_isthmus": "rindá', riguba xii",
+        "totonac": "mukus",
+        "chontal": "dujueda"
+      }
+    },
+    {
+      "id": 106.0,
+      "gloss": "fear",
+      "forms": {
+        "otomian": "ntsu, xikwa",
+        "trique": "chu'vi'",
+        "proto_mixtec": "*yuʔwi",
+        "Unnamed: 5": "yu'u",
+        "zapotec_isthmus": "ridxibi",
+        "Unnamed: 7": "chhechenhi’i",
+        "popoluca": "tïnïxp xogotni’c \n(verb)",
+        "huave": "-mbol",
+        "chontal": "łaxpayguih"
+      }
+    },
+    {
+      "id": 107.0,
+      "gloss": "to sleep",
+      "forms": {
+        "otomian": "ähä",
+        "trique": "otoj",
+        "Unnamed: 5": "kusun",
+        "zapotec_isthmus": "rasi, rusisiaasi'",
+        "Unnamed: 7": "wetas",
+        "totonac": "asltatá",
+        "huave": "-me",
+        "chontal": "dixmayhma"
+      }
+    },
+    {
+      "id": 108.0,
+      "gloss": "to live",
+      "forms": {
+        "otomian": "bui",
+        "trique": "ne, yáán",
+        "Unnamed: 5": "koo, chakoo",
+        "zapotec_isthmus": "ri1be1za2",
+        "popoluca": "tsïnap",
+        "chontal": "dibajmhma"
+      }
+    },
+    {
+      "id": 109.0,
+      "gloss": "to die",
+      "forms": {
+        "otomian": "tu",
+        "trique": "avi'",
+        "Unnamed: 5": "kuvi",
+        "zapotec_isthmus": "rati",
+        "Unnamed: 7": "wate, chat",
+        "totonac": "ní",
+        "huave": "-ndyu",
+        "chontal": "dimahna"
+      }
+    },
+    {
+      "id": 110.0,
+      "gloss": "to kill",
+      "forms": {
+        "otomian": "ho",
+        "trique": "ticavi'",
+        "Unnamed: 5": "ka'ni",
+        "zapotec_isthmus": "ruu1ti2",
+        "Unnamed: 7": "wet, chhot",
+        "totonac": "magní",
+        "huave": "-mbi",
+        "chontal": "dimáhahma"
+      }
+    },
+    {
+      "id": 111.0,
+      "gloss": "to fight",
+      "forms": {
+        "otomian": "ntuhni, ntsa̲",
+        "trique": "anó tuvi', unu'",
+        "Unnamed: 5": "kanaa, kinyɨɨ",
+        "zapotec_isthmus": "ri1din1de2",
+        "totonac": "taratlawá"
+      }
+    },
+    {
+      "id": 112.0,
+      "gloss": "to hunt (transitive)",
+      "forms": {
+        "otomian": "pe̲, k'ahni",
+        "trique": "noco'",
+        "Unnamed: 5": "k'ani",
+        "zapotec_isthmus": "rie guuze'",
+        "Unnamed: 7": "xhejsa (noun)",
+        "totonac": "talatnán",
+        "popoluca": "tínquep",
+        "chontal": "dihnołhma"
+      }
+    },
+    {
+      "id": 113.0,
+      "gloss": "to hit",
+      "forms": {
+        "otomian": "fant’i, umbi",
+        "Unnamed: 5": "chi'i",
+        "zapotec_isthmus": "ri1ga1pa2, ri1gui1ñe2",
+        "Unnamed: 7": "we'",
+        "chontal": "dibahma"
+      }
+    },
+    {
+      "id": 114.0,
+      "gloss": "to cut",
+      "forms": {
+        "otomian": "he̲ki",
+        "trique": "a'ne'",
+        "Unnamed: 5": "ka'ncha, kaxa",
+        "zapotec_isthmus": "ruchuugu', rugá",
+        "popoluca": "tïnpuxtucp",
+        "huave": "ndojky-; \najch (chop)",
+        "chontal": "dihwitsoda"
+      }
+    },
+    {
+      "id": 115.0,
+      "gloss": "to split",
+      "forms": {
+        "otomian": "he̲ni",
+        "Unnamed: 5": "t'avi",
+        "zapotec_isthmus": "richeza, ri1gui1che2",
+        "huave": "mbajk-; chiot (break)",
+        "chontal": "debíhihma"
+      }
+    },
+    {
+      "id": 116.0,
+      "gloss": "to stab (or stick)",
+      "forms": {
+        "otomian": "sut'i",
+        "Unnamed: 5": "kani",
+        "popoluca": "tïnmï’cxp",
+        "huave": "-tsoly",
+        "chontal": "denahma"
+      }
+    },
+    {
+      "id": 117.0,
+      "gloss": "to scratch (an itch)",
+      "forms": {
+        "otomian": "xe̲t'i, xaki",
+        "trique": "utuù",
+        "Unnamed: 5": "koyo",
+        "zapotec_isthmus": "ri1guu1ñe2, \nruuza1 xhuga2",
+        "totonac": "taxtí",
+        "huave": "koch",
+        "chontal": "debułhma, degofijmhma"
+      }
+    },
+    {
+      "id": 118.0,
+      "gloss": "to dig",
+      "forms": {
+        "otomian": "he̲t'i",
+        "trique": "váán",
+        "Unnamed: 5": "kata",
+        "huave": "-ojty",
+        "chontal": "dibuhma"
+      }
+    },
+    {
+      "id": 119.0,
+      "gloss": "to swim",
+      "forms": {
+        "otomian": "ña̲the",
+        "trique": "o' ... xtáj",
+        "Unnamed: 5": "sucha",
+        "zapotec_isthmus": "rixuuba'",
+        "totonac": "ixkiwatnán",
+        "popoluca": "tïyump",
+        "chontal": "digafgayhma"
+      }
+    },
+    {
+      "id": 120.0,
+      "gloss": "to fly",
+      "forms": {
+        "otomian": "nsa̲ni",
+        "Unnamed: 5": "ndachi",
+        "Unnamed: 7": "wezo",
+        "mazahua": "zinzapjú",
+        "popoluca": "tïquecp",
+        "huave": "-laly",
+        "chontal": "diyuhma"
+      }
+    },
+    {
+      "id": 121.0,
+      "gloss": "to walk",
+      "forms": {
+        "otomian": "yowa",
+        "trique": "chéé",
+        "Unnamed: 5": "kaka",
+        "zapotec_isthmus": "rizá",
+        "mazahua": "nzhodú",
+        "popoluca": "tïyo’yp",
+        "huave": "-jay",
+        "chontal": "dihuahma"
+      }
+    },
+    {
+      "id": 122.0,
+      "gloss": "to come",
+      "forms": {
+        "otomian": "ehe",
+        "trique": "na'",
+        "Unnamed: 5": "kixi",
+        "zapotec_isthmus": "ree1da2",
+        "Unnamed: 7": "chhida",
+        "totonac": "min",
+        "popoluca": "tïmimp",
+        "huave": "-pe, -liok",
+        "chontal": "digwaynawo"
+      }
+    },
+    {
+      "id": 123.0,
+      "gloss": "to lie (as on one's side)",
+      "forms": {
+        "otomian": "be̲ni",
+        "Unnamed: 5": "nukava",
+        "zapotec_isthmus": "ra'ta', rixá",
+        "totonac": "tamá",
+        "popoluca": "tïncumdacp",
+        "huave": "piaj",
+        "chontal": "dunawayhma"
+      }
+    },
+    {
+      "id": 124.0,
+      "gloss": "to sit",
+      "forms": {
+        "otomian": "hudi",
+        "Unnamed: 5": "nukoo",
+        "zapotec_isthmus": "ribí",
+        "totonac": "tawilá",
+        "popoluca": "tïntsïndacp",
+        "huave": "tsot-",
+        "chontal": "digutswayhma"
+      }
+    },
+    {
+      "id": 125.0,
+      "gloss": "to stand",
+      "forms": {
+        "otomian": "ba̲i",
+        "Unnamed: 5": "kandichi",
+        "zapotec_isthmus": "riasa",
+        "mazahua": "nanga",
+        "totonac": "takí",
+        "huave": "lomb-"
+      }
+    },
+    {
+      "id": 126.0,
+      "gloss": "to turn (change direction)",
+      "forms": {
+        "otomian": "ba̲t'i",
+        "zapotec_isthmus": "ri1bi1gue1ta’3",
+        "huave": "-ndil",
+        "chontal": "dugwif'hma"
+      }
+    },
+    {
+      "id": 127.0,
+      "gloss": "to fall (as in drop)",
+      "forms": {
+        "otomian": "ta̲gi, ho̲e",
+        "trique": "ayanj",
+        "Unnamed: 5": "ndikava",
+        "zapotec_isthmus": "riruche",
+        "totonac": "yuja, sltuglí",
+        "popoluca": "pogolnaxp",
+        "huave": "-lich, -ndach",
+        "chontal": "didangguewo, diyujhma"
+      }
+    },
+    {
+      "id": 128.0,
+      "gloss": "to give",
+      "forms": {
+        "otomian": "uni",
+        "trique": "(na)rqué, o'",
+        "Unnamed: 5": "kua'a, taxi",
+        "zapotec_isthmus": "rudii, rusiga'de'",
+        "totonac": "mastá, maxkí",
+        "popoluca": "tïnmoyp",
+        "huave": "-jch",
+        "chontal": "debíhihma, diguhma"
+      }
+    },
+    {
+      "id": 129.0,
+      "gloss": "to hold (in one's hand)",
+      "forms": {
+        "otomian": "hä, mihi",
+        "Unnamed: 5": "kutii",
+        "chontal": "denajc'ohma"
+      }
+    },
+    {
+      "id": 130.0,
+      "gloss": "to squeeze",
+      "forms": {
+        "otomian": "te̲'mi",
+        "zapotec_isthmus": "riguié, rixii",
+        "popoluca": "tïnactsï’csp",
+        "chontal": "dumejhma"
+      }
+    },
+    {
+      "id": 131.0,
+      "gloss": "to rub",
+      "forms": {
+        "otomian": "koxt'i",
+        "zapotec_isthmus": "rixubi",
+        "chontal": "dumiłhma"
+      }
+    },
+    {
+      "id": 132.0,
+      "gloss": "to wash",
+      "forms": {
+        "otomian": "pet'e, xu̲ki",
+        "Unnamed: 5": "nakacha",
+        "zapotec_isthmus": "riguiibi'",
+        "totonac": "chakenán",
+        "huave": "jants",
+        "chontal": "debajhma"
+      }
+    },
+    {
+      "id": 133.0,
+      "gloss": "to wipe",
+      "forms": {
+        "otomian": "thuki",
+        "Unnamed: 5": "nditivi",
+        "chontal": "dedufhma, dunashma"
+      }
+    },
+    {
+      "id": 134.0,
+      "gloss": "to pull",
+      "forms": {
+        "otomian": "ju̲t'i",
+        "trique": "nucuàj, xuun",
+        "Unnamed: 5": "xisita",
+        "zapotec_isthmus": "rigu'ba', ruruuxha'",
+        "Unnamed: 7": "wecao",
+        "chontal": "dexałhma, dinihehma, \nduwanayhma"
+      }
+    },
+    {
+      "id": 135.0,
+      "gloss": "to push",
+      "forms": {
+        "otomian": "tuki",
+        "trique": "tiguíj (ra'a)",
+        "Unnamed: 5": "kakin, siki'in",
+        "zapotec_isthmus": "ri1lá2, rucaa1 ná’2",
+        "totonac": "tantlaglín",
+        "chontal": "dihuanshma"
+      }
+    },
+    {
+      "id": 136.0,
+      "gloss": "to throw",
+      "forms": {
+        "otomian": "u̲ts'i",
+        "Unnamed: 5": "kakin, siki'in",
+        "zapotec_isthmus": "ruchá",
+        "totonac": "makán",
+        "chontal": "degahnihma"
+      }
+    },
+    {
+      "id": 137.0,
+      "gloss": "to tie",
+      "forms": {
+        "otomian": "tut'i",
+        "zapotec_isthmus": "run1dii1bi2",
+        "chontal": "difihehma"
+      }
+    },
+    {
+      "id": 138.0,
+      "gloss": "to sew",
+      "forms": {
+        "otomian": "we̲ti",
+        "trique": "nuvá",
+        "proto_mixtec": "*ku ɨku",
+        "Unnamed: 5": "kiku",
+        "zapotec_isthmus": "ri1gui1ba2",
+        "Unnamed: 7": "gobe",
+        "totonac": "lixtokó",
+        "popoluca": "cu’un’p",
+        "huave": "-ay",
+        "chontal": "denatsołhma"
+      }
+    },
+    {
+      "id": 139.0,
+      "gloss": "to count",
+      "forms": {
+        "otomian": "pede",
+        "trique": "nanó",
+        "Unnamed: 5": "ka'vi",
+        "zapotec_isthmus": "ru1ga1ba’3",
+        "huave": "-tyu",
+        "chontal": "dixuejhmehma, dinefohma"
+      }
+    },
+    {
+      "id": 140.0,
+      "gloss": "to say",
+      "forms": {
+        "otomian": "mä, xifi",
+        "trique": "taj, tu'va",
+        "Unnamed: 5": "kachi",
+        "zapotec_isthmus": "rabi",
+        "Unnamed: 7": "wenha, choe’, diidze’",
+        "mazahua": "mama, ñaa",
+        "totonac": "kuan",
+        "popoluca": "inïmp, tïnyïmp",
+        "huave": "-ndiak",
+        "chontal": "digwahma, dimihma"
+      }
+    },
+    {
+      "id": 141.0,
+      "gloss": "to sing",
+      "forms": {
+        "otomian": "tuhu",
+        "trique": "achráá",
+        "Unnamed: 5": "kata",
+        "zapotec_isthmus": "rusiguunda', ruunda'",
+        "Unnamed: 7": "wela’a",
+        "popoluca": "ïp",
+        "chontal": "dunac'hma"
+      }
+    },
+    {
+      "id": 142.0,
+      "gloss": "to play",
+      "forms": {
+        "otomian": "ñeni",
+        "trique": "tico",
+        "Unnamed: 5": "kusɨkɨ",
+        "zapotec_isthmus": "riguite",
+        "Unnamed: 7": "witj (game)",
+        "totonac": "akamanán",
+        "popoluca": "ícpay",
+        "huave": "-tsoj",
+        "chontal": "dif'ilhma"
+      }
+    },
+    {
+      "id": 143.0,
+      "gloss": "to float",
+      "forms": {
+        "otomian": "hñe̲nts'i",
+        "zapotec_isthmus": "rixuba1 laahua2"
+      }
+    },
+    {
+      "id": 144.0,
+      "gloss": "to flow",
+      "forms": {
+        "otomian": "tihi, nextri",
+        "zapotec_isthmus": "ri1dá2, ruxooñe'"
+      }
+    },
+    {
+      "id": 145.0,
+      "gloss": "to freeze",
+      "forms": {
+        "otomian": "ntse̲"
+      }
+    },
+    {
+      "id": 146.0,
+      "gloss": "to swell",
+      "forms": {
+        "otomian": "hneni",
+        "Unnamed: 5": "xaa",
+        "zapotec_isthmus": "ridxá/ruchá gui",
+        "Unnamed: 7": "yi",
+        "chontal": "dewofc'ohma"
+      }
+    },
+    {
+      "id": 147.0,
+      "gloss": "sun",
+      "forms": {
+        "otomian": "hyadi",
+        "trique": "güii",
+        "Unnamed: 5": "kandii",
+        "zapotec_isthmus": "gubidxa",
+        "Unnamed: 7": "gobiz",
+        "mazahua": "jiarú",
+        "totonac": "chichiní",
+        "popoluca": "xïjw",
+        "huave": "naty",
+        "chontal": "galhora"
+      }
+    },
+    {
+      "id": 148.0,
+      "gloss": "moon",
+      "forms": {
+        "otomian": "zänä",
+        "trique": "yavii",
+        "proto_mixtec": "*yòòʔ",
+        "Unnamed: 5": "yoo",
+        "zapotec_isthmus": "beeu",
+        "Unnamed: 7": "ibo'",
+        "mazahua": "zana",
+        "totonac": "papá",
+        "popoluca": "po'",
+        "huave": "kaf",
+        "chontal": "galmuł'a"
+      }
+    },
+    {
+      "id": 149.0,
+      "gloss": "star",
+      "forms": {
+        "otomian": "tso̲ho̲",
+        "trique": "yati'",
+        "Unnamed: 5": "choxini",
+        "zapotec_isthmus": "beleguí (archaic)",
+        "Unnamed: 7": "belhj",
+        "mazahua": "seje",
+        "totonac": "stakú",
+        "popoluca": "majts",
+        "huave": "ukas",
+        "chontal": "galxamna"
+      }
+    },
+    {
+      "id": 150.0,
+      "gloss": "water",
+      "forms": {
+        "otomian": "dehe",
+        "trique": "na",
+        "proto_mixtec": "*ndute",
+        "Unnamed: 5": "nducha",
+        "zapotec_isthmus": "nisa",
+        "Unnamed: 7": "nhis",
+        "mazahua": "ndeje",
+        "totonac": "chúchut",
+        "popoluca": "nï",
+        "huave": "iow",
+        "chontal": "lajah"
+      }
+    },
+    {
+      "id": 151.0,
+      "gloss": "rain",
+      "forms": {
+        "otomian": "ye",
+        "trique": "maàn",
+        "proto_mixtec": "*sawiʔ",
+        "Unnamed: 5": "savi, dau, sau",
+        "zapotec_isthmus": "nisa guie",
+        "Unnamed: 7": "yejo",
+        "mazahua": "dyeb'e",
+        "totonac": "sen",
+        "popoluca": "tu",
+        "huave": "wijchior",
+        "chontal": "łagwi"
+      }
+    },
+    {
+      "id": 152.0,
+      "gloss": "river",
+      "forms": {
+        "otomian": "däthe, hñe",
+        "trique": "chráá",
+        "proto_mixtec": "*yute",
+        "Unnamed: 5": "yuta",
+        "zapotec_isthmus": "guiigu'",
+        "Unnamed: 7": "yego",
+        "mazahua": "ndareje",
+        "totonac": "kasltuchoko",
+        "popoluca": "mïjnï",
+        "huave": "lam",
+        "chontal": "albanah"
+      }
+    },
+    {
+      "id": 153.0,
+      "gloss": "lake",
+      "forms": {
+        "otomian": "zabi",
+        "Unnamed: 5": "mini",
+        "zapotec_isthmus": "lagu (Spanish)",
+        "Unnamed: 7": "yelha",
+        "totonac": "yacht",
+        "chontal": "linajmah"
+      }
+    },
+    {
+      "id": 154.0,
+      "gloss": "sea (as in ocean)",
+      "forms": {
+        "otomian": "däzabi",
+        "trique": "na ya'ànj",
+        "Unnamed: 5": "nducha ñɨɨ",
+        "zapotec_isthmus": "nisadó'",
+        "Unnamed: 7": "nhisdao",
+        "mazahua": "ndazapjú",
+        "totonac": "pupunú",
+        "huave": "ndyuik",
+        "chontal": "łaja"
+      }
+    },
+    {
+      "id": 155.0,
+      "gloss": "salt",
+      "forms": {
+        "otomian": "u",
+        "trique": "yaan",
+        "proto_mixtec": "*yɨɨ`ʔ",
+        "Unnamed: 5": "ñɨɨ",
+        "zapotec_isthmus": "zidi",
+        "Unnamed: 7": "zede'",
+        "mazahua": "öö",
+        "totonac": "mátsat",
+        "popoluca": "can",
+        "chontal": "łohwe"
+      }
+    },
+    {
+      "id": 156.0,
+      "gloss": "stone",
+      "forms": {
+        "otomian": "do, ma'ye, ndo̲do",
+        "trique": "yahij",
+        "proto_mixtec": "*yuuʔ",
+        "Unnamed: 5": "yuu",
+        "zapotec_isthmus": "guie",
+        "Unnamed: 7": "ye'j",
+        "mazahua": "ndojo",
+        "totonac": "chiwix",
+        "huave": "kang",
+        "chontal": "łabíc"
+      }
+    },
+    {
+      "id": 157.0,
+      "gloss": "sand",
+      "forms": {
+        "otomian": "bomu",
+        "trique": "yo'óó chrùù",
+        "Unnamed: 5": "ñɨtɨ",
+        "zapotec_isthmus": "yuxi",
+        "Unnamed: 7": "yoxhe",
+        "mazahua": "ñaxú",
+        "totonac": "muntsay",
+        "popoluca": "po’y",
+        "huave": "wiujt",
+        "chontal": "łibimats'"
+      }
+    },
+    {
+      "id": 158.0,
+      "gloss": "dust",
+      "forms": {
+        "otomian": "fonthai",
+        "trique": "tachruù, yachruù",
+        "Unnamed: 5": "tɨkacha",
+        "zapotec_isthmus": "(yu) dé",
+        "Unnamed: 7": "bixte",
+        "mazahua": "xijumú",
+        "totonac": "pokxni",
+        "chontal": "łabi, galhufga, łifuh"
+      }
+    },
+    {
+      "id": 159.0,
+      "gloss": "earth (as in soil)",
+      "forms": {
+        "otomian": "hai",
+        "trique": "yo'óó",
+        "Unnamed: 5": "ñu'un",
+        "zapotec_isthmus": "layú",
+        "Unnamed: 7": "yo",
+        "mazahua": "jumú",
+        "totonac": "tiyat",
+        "popoluca": "nax",
+        "huave": "iot",
+        "chontal": "łamats'"
+      }
+    },
+    {
+      "id": 160.0,
+      "gloss": "cloud",
+      "forms": {
+        "otomian": "gui",
+        "trique": "ngaa",
+        "Unnamed: 5": "viko",
+        "zapotec_isthmus": "za",
+        "Unnamed: 7": "bejo",
+        "mazahua": "ngomú",
+        "totonac": "pukslni",
+        "popoluca": "wintuc",
+        "huave": "oik",
+        "chontal": "lummaway"
+      }
+    },
+    {
+      "id": 161.0,
+      "gloss": "fog",
+      "forms": {
+        "otomian": "bo̲ngui, 'bipa",
+        "trique": "ngaa ya'àan",
+        "zapotec_isthmus": "gupa",
+        "Unnamed: 7": "zendao",
+        "chontal": "dedíhihma lummaway"
+      }
+    },
+    {
+      "id": 162.0,
+      "gloss": "sky",
+      "forms": {
+        "otomian": "mahets'i",
+        "trique": "rihaan Ya'anj",
+        "Unnamed: 5": "andɨvɨ",
+        "zapotec_isthmus": "guibá', xaibá'",
+        "Unnamed: 7": "yaba'",
+        "mazahua": "ajense",
+        "totonac": "akapón",
+        "popoluca": "tsajp",
+        "huave": "tsajkats",
+        "chontal": "lemaha"
+      }
+    },
+    {
+      "id": 163.0,
+      "gloss": "wind (as in breeze)",
+      "forms": {
+        "otomian": "ndähi",
+        "trique": "nanà",
+        "proto_mixtec": "*tatiʔ",
+        "Unnamed: 5": "tachi",
+        "zapotec_isthmus": "bi",
+        "Unnamed: 7": "be'",
+        "totonac": "un",
+        "popoluca": "xe’m",
+        "huave": "ion",
+        "chontal": "ławah"
+      }
+    },
+    {
+      "id": 164.0,
+      "gloss": "snow",
+      "forms": {
+        "otomian": "xija",
+        "trique": "yu've'",
+        "Unnamed: 5": "yu'va",
+        "Unnamed: 7": "beye'",
+        "mazahua": "xitsji",
+        "totonac": "longni"
+      }
+    },
+    {
+      "id": 165.0,
+      "gloss": "ice",
+      "forms": {
+        "otomian": "tse̲",
+        "trique": "yu've'",
+        "Unnamed: 5": "yu'va",
+        "zapotec_isthmus": "ielu (Spanish)",
+        "Unnamed: 7": "beye'",
+        "mazahua": "xitsji",
+        "totonac": "miki"
+      }
+    },
+    {
+      "id": 166.0,
+      "gloss": "to smoke",
+      "forms": {
+        "otomian": "tsiyu̲i",
+        "trique": "catze', xrón (noun)",
+        "proto_mixtec": "*yuʔwè",
+        "Unnamed: 5": "ka'mi",
+        "zapotec_isthmus": "gu'xhu'",
+        "Unnamed: 7": "chwa’",
+        "totonac": "ikulí",
+        "popoluca": "tïju’cp",
+        "huave": "sop (noun)",
+        "chontal": "dijuehma"
+      }
+    },
+    {
+      "id": 167.0,
+      "gloss": "fire",
+      "forms": {
+        "otomian": "tsibi",
+        "proto_mixtec": "*yuʔù",
+        "Unnamed: 5": "ñu'un",
+        "zapotec_isthmus": "gui",
+        "Unnamed: 7": "yi'",
+        "totonac": "islkuyat",
+        "popoluca": "jïjn",
+        "chontal": "łunga"
+      }
+    },
+    {
+      "id": 168.0,
+      "gloss": "ash",
+      "forms": {
+        "otomian": "bospi",
+        "trique": "yaj",
+        "Unnamed: 5": "yaa",
+        "zapotec_isthmus": "dé",
+        "Unnamed: 7": "de",
+        "totonac": "slkaka",
+        "popoluca": "cuyjam",
+        "huave": "ngwiat",
+        "chontal": "łabi"
+      }
+    },
+    {
+      "id": 169.0,
+      "gloss": "to burn (intransitive)",
+      "forms": {
+        "otomian": "tsät'i",
+        "Unnamed: 5": "ka'mi, kayu",
+        "zapotec_isthmus": "riana",
+        "totonac": "slkú",
+        "huave": "-ndajp",
+        "chontal": "dibihehma"
+      }
+    },
+    {
+      "id": 170.0,
+      "gloss": "road",
+      "forms": {
+        "otomian": "ts’ixt’u‘ñu, 'ñu",
+        "trique": "chrej",
+        "Unnamed: 5": "ichi",
+        "zapotec_isthmus": "neza",
+        "Unnamed: 7": "nhez",
+        "mazahua": "ñii",
+        "totonac": "tijia",
+        "popoluca": "tou",
+        "huave": "tiujt",
+        "chontal": "lane"
+      }
+    },
+    {
+      "id": 171.0,
+      "gloss": "mountain",
+      "forms": {
+        "otomian": "t'o̲ho̲, mbots'i",
+        "trique": "quij",
+        "proto_mixtec": "*yukuʔ",
+        "Unnamed: 5": "yuku",
+        "zapotec_isthmus": "gui'xhi'",
+        "Unnamed: 7": "ya'a",
+        "mazahua": "dyáá",
+        "totonac": "kasipitni",
+        "popoluca": "cópac",
+        "huave": "tiok",
+        "chontal": "łijuala"
+      }
+    },
+    {
+      "id": 172.0,
+      "gloss": "red",
+      "forms": {
+        "otomian": "the̲ni",
+        "trique": "ve'èj",
+        "proto_mixtec": "*kweʔe",
+        "Unnamed: 5": "kua'a",
+        "zapotec_isthmus": "na1xi1ñá’2",
+        "Unnamed: 7": "xna",
+        "mazahua": "kjipobú",
+        "totonac": "spiníni, tsutsoko",
+        "popoluca": "tsábats",
+        "chontal": "unxalí"
+      }
+    },
+    {
+      "id": 173.0,
+      "gloss": "green",
+      "forms": {
+        "otomian": "k’ants’i, k’a’mi",
+        "trique": "mareè",
+        "Unnamed: 5": "kuii",
+        "zapotec_isthmus": "na1ber2de1 (Spanish)",
+        "Unnamed: 7": "ga'",
+        "totonac": "stákga",
+        "popoluca": "xúxuc",
+        "chontal": "axuayga, uxcua"
+      }
+    },
+    {
+      "id": 174.0,
+      "gloss": "yellow",
+      "forms": {
+        "otomian": "k'axt'i",
+        "trique": "míí, mayàj",
+        "proto_mixtec": "*kwaà",
+        "Unnamed: 5": "kuaan",
+        "zapotec_isthmus": "naguchi",
+        "Unnamed: 7": "gashe",
+        "totonac": "slmukúku",
+        "popoluca": "pú’tsputs",
+        "huave": "mbuwiol",
+        "chontal": "adahajngga, undahe"
+      }
+    },
+    {
+      "id": 175.0,
+      "gloss": "white",
+      "forms": {
+        "otomian": "t'axi",
+        "trique": "catzìì",
+        "Unnamed: 5": "kuixin, xikɨyɨ",
+        "zapotec_isthmus": "na1qui1chi’3",
+        "Unnamed: 7": "xhilh",
+        "mazahua": "toxú",
+        "totonac": "sakaka, snapapa",
+        "popoluca": "po'p",
+        "chontal": "galfujga"
+      }
+    },
+    {
+      "id": 176.0,
+      "gloss": "black",
+      "forms": {
+        "otomian": "bo, pothe",
+        "trique": "maruù",
+        "Unnamed: 5": "nuu",
+        "zapotec_isthmus": "nayaase'",
+        "Unnamed: 7": "gasj",
+        "mazahua": "potjú",
+        "totonac": "tsitsaka",
+        "popoluca": "yïgïc",
+        "huave": "na",
+        "chontal": "umi"
+      }
+    },
+    {
+      "id": 177.0,
+      "gloss": "night",
+      "forms": {
+        "otomian": "nxui",
+        "trique": "yan'",
+        "Unnamed: 5": "niñu",
+        "zapotec_isthmus": "gueela', huaxhinni",
+        "Unnamed: 7": "chhel, gol",
+        "mazahua": "xoma",
+        "totonac": "tsisní",
+        "popoluca": "tsu'",
+        "huave": "ungius",
+        "chontal": "libuguih"
+      }
+    },
+    {
+      "id": 178.0,
+      "gloss": "day (daytime)",
+      "forms": {
+        "otomian": "pa",
+        "trique": "güii",
+        "proto_mixtec": "*kɨwɨʔ",
+        "Unnamed: 5": "kɨvɨ",
+        "zapotec_isthmus": "dxi",
+        "Unnamed: 7": "za",
+        "mazahua": "paa",
+        "totonac": "kakuwiní",
+        "popoluca": "xïm",
+        "huave": "naty",
+        "chontal": "lidine"
+      }
+    },
+    {
+      "id": 179.0,
+      "gloss": "year",
+      "forms": {
+        "otomian": "je̲ya",
+        "trique": "yo'",
+        "proto_mixtec": "*kwiya",
+        "Unnamed: 5": "kuiya",
+        "zapotec_isthmus": "iza",
+        "Unnamed: 7": "iza",
+        "mazahua": "tsjema",
+        "totonac": "kata",
+        "popoluca": "xíwit",
+        "huave": "ñiat",
+        "chontal": "łamats'"
+      }
+    },
+    {
+      "id": 180.0,
+      "gloss": "warm (as in weather)",
+      "forms": {
+        "otomian": "mpani",
+        "proto_mixtec": "*iʔniʔ",
+        "Unnamed: 5": "i'ni",
+        "zapotec_isthmus": "nan1dá’3 (hot)",
+        "Unnamed: 7": "da'la",
+        "mazahua": "paa",
+        "totonac": "chíchi",
+        "popoluca": "pówic (noun)",
+        "chontal": "ajoygah; inúh (hot)"
+      }
+    },
+    {
+      "id": 181.0,
+      "gloss": "cold (as in weather)",
+      "forms": {
+        "otomian": "ntse̲",
+        "trique": "coj",
+        "Unnamed: 5": "vɨxin",
+        "zapotec_isthmus": "nananda",
+        "Unnamed: 7": "zaga",
+        "mazahua": "jotú",
+        "totonac": "lognún, kawitutá",
+        "huave": "kiñ",
+        "chontal": "axida"
+      }
+    },
+    {
+      "id": 182.0,
+      "gloss": "full",
+      "forms": {
+        "otomian": "ñuts'i",
+        "trique": "nichràa, nù'",
+        "Unnamed: 5": "sikuku (verb)",
+        "zapotec_isthmus": "na1ze2, dxa’2",
+        "Unnamed: 7": "nza', yoz",
+        "mazahua": "nizhi",
+        "totonac": "tatsamá",
+        "chontal": "imanna, ixuayda"
+      }
+    },
+    {
+      "id": 183.0,
+      "gloss": "new",
+      "forms": {
+        "otomian": "ra'yo",
+        "trique": "nacà",
+        "Unnamed: 5": "xaa",
+        "zapotec_isthmus": "na1cu2bi1",
+        "Unnamed: 7": "rhita, cobe",
+        "totonac": "sasti",
+        "popoluca": "námay",
+        "chontal": "ats'é"
+      }
+    },
+    {
+      "id": 184.0,
+      "gloss": "old",
+      "forms": {
+        "otomian": "xita, txu",
+        "trique": "ngà, re'èè",
+        "Unnamed: 5": "chee, yata",
+        "zapotec_isthmus": "na1hue2la1",
+        "Unnamed: 7": "golha",
+        "totonac": "makám",
+        "popoluca": "ámpay",
+        "huave": "nataxuy, ngarrats",
+        "chontal": "aguweh"
+      }
+    },
+    {
+      "id": 185.0,
+      "gloss": "good",
+      "forms": {
+        "otomian": "za, hogi",
+        "trique": "nò, sà'",
+        "proto_mixtec": "*waʔa",
+        "Unnamed: 5": "va'a",
+        "zapotec_isthmus": "na1cha’3hui’1, yo2",
+        "mazahua": "joo",
+        "totonac": "tlan",
+        "popoluca": "oy",
+        "huave": "ñe",
+        "chontal": "ac'a"
+      }
+    },
+    {
+      "id": 186.0,
+      "gloss": "bad",
+      "forms": {
+        "otomian": "nts'o",
+        "trique": "chi'ìì",
+        "Unnamed: 5": "kue'e",
+        "zapotec_isthmus": "na1dxa1ba’3",
+        "Unnamed: 7": "xhi'a",
+        "totonac": "nitlán",
+        "popoluca": "malo’c (Spanish)",
+        "chontal": "ahij mejor"
+      }
+    },
+    {
+      "id": 187.0,
+      "gloss": "rotten (as, a log)",
+      "forms": {
+        "otomian": "ya",
+        "trique": "richruù (of wood)",
+        "proto_mixtec": "*teʔyu",
+        "Unnamed: 5": "kue'e",
+        "zapotec_isthmus": "nayuudxu'",
+        "Unnamed: 7": "gozo'",
+        "totonac": "masnít",
+        "huave": "tyux, -pandy (verb)",
+        "chontal": "iweł'gui"
+      }
+    },
+    {
+      "id": 188.0,
+      "gloss": "dirty",
+      "forms": {
+        "otomian": "nts'o",
+        "trique": "caniquè', rìn'",
+        "Unnamed: 5": "ña'an",
+        "zapotec_isthmus": "nabiidi', nachipa",
+        "Unnamed: 7": "ne’e, bziwe’, besjo",
+        "totonac": "tsintsíli",
+        "huave": "-nay",
+        "chontal": "axujc'a"
+      }
+    },
+    {
+      "id": 189.0,
+      "gloss": "straight",
+      "forms": {
+        "otomian": "njwäntho",
+        "Unnamed: 5": "ndoo",
+        "totonac": "sluloko, tanes",
+        "huave": "-lyeng"
+      }
+    },
+    {
+      "id": 190.0,
+      "gloss": "round",
+      "forms": {
+        "otomian": "tsant’i",
+        "trique": "cachrìin, xòò",
+        "proto_mixtec": "*kute",
+        "Unnamed: 5": "tɨloo",
+        "zapotec_isthmus": "bi1tu1 xi3ga1 (noun)",
+        "Unnamed: 7": "blol",
+        "totonac": "stilili",
+        "chontal": "axpeyyugui"
+      }
+    },
+    {
+      "id": 191.0,
+      "gloss": "sharp (as a knife)",
+      "forms": {
+        "otomian": "hye̲nte, hño",
+        "trique": "naca (verb)",
+        "Unnamed: 5": "xaan",
+        "zapotec_isthmus": "na1du1xhu’3"
+      }
+    },
+    {
+      "id": 192.0,
+      "gloss": "dull (as a knife)",
+      "forms": {
+        "otomian": "doñä",
+        "zapotec_isthmus": "natuumbu'"
+      }
+    },
+    {
+      "id": 193.0,
+      "gloss": "smooth",
+      "forms": {
+        "otomian": "nts'u̲k",
+        "trique": "nu'vè",
+        "proto_mixtec": "*lɨʔwɨʔ",
+        "Unnamed: 5": "kama, lɨɨ",
+        "zapotec_isthmus": "nadxiibi'",
+        "chontal": "łuc', abijga"
+      }
+    },
+    {
+      "id": 194.0,
+      "gloss": "wet",
+      "forms": {
+        "otomian": "nk'a, mobo",
+        "trique": "yòò",
+        "Unnamed: 5": "vixa",
+        "zapotec_isthmus": "nadxé'",
+        "totonac": "chítwa",
+        "popoluca": "xó’guic",
+        "huave": "-kats",
+        "chontal": "ijagui"
+      }
+    },
+    {
+      "id": 195.0,
+      "gloss": "dry (adjective)",
+      "forms": {
+        "otomian": "yot'i, 'ñoni",
+        "trique": "nacòò",
+        "Unnamed: 5": "ichɨ",
+        "zapotec_isthmus": "nabidxi",
+        "totonac": "skakni",
+        "huave": "-wajk",
+        "chontal": "ijuł"
+      }
+    },
+    {
+      "id": 196.0,
+      "gloss": "right (correct)",
+      "forms": {
+        "otomian": "hogi",
+        "Unnamed: 5": "ndaa",
+        "zapotec_isthmus": "jneza",
+        "Unnamed: 7": "ojo'o",
+        "popoluca": "iyacxtá’cway",
+        "chontal": "ałingca, ma dałmay"
+      }
+    },
+    {
+      "id": 197.0,
+      "gloss": "near",
+      "forms": {
+        "otomian": "getu̲'bu̲",
+        "trique": "nichrùn'",
+        "proto_mixtec": "*yetì",
+        "Unnamed: 5": "yati",
+        "zapotec_isthmus": "gaxha",
+        "Unnamed: 7": "gawte",
+        "popoluca": "tom",
+        "chontal": "da, awejngga"
+      }
+    },
+    {
+      "id": 198.0,
+      "gloss": "far",
+      "forms": {
+        "otomian": "ya'bu̲",
+        "trique": "gàn'",
+        "Unnamed: 5": "xika, kani",
+        "zapotec_isthmus": "zitu",
+        "Unnamed: 7": "jëë",
+        "totonac": "mákat",
+        "chontal": "aguli(h) lane"
+      }
+    },
+    {
+      "id": 199.0,
+      "gloss": "right (side)",
+      "forms": {
+        "otomian": "ñe̲i",
+        "trique": "nuvà'",
+        "Unnamed: 5": "kua'a",
+        "Unnamed: 7": "licha",
+        "totonac": "pagkanat",
+        "popoluca": "óyim",
+        "chontal": "alc'a"
+      }
+    },
+    {
+      "id": 200.0,
+      "gloss": "left (side)",
+      "forms": {
+        "otomian": "ngähä",
+        "trique": "nichrùun",
+        "Unnamed: 5": "sati",
+        "zapotec_isthmus": "bi1ga’3",
+        "Unnamed: 7": "yegarha, rhebesle",
+        "totonac": "pakxuki",
+        "popoluca": "anájyim",
+        "chontal": "loxa"
+      }
+    },
+    {
+      "id": 201.0,
+      "gloss": "at",
+      "forms": {
+        "Unnamed: 5": "nuu",
+        "totonac": "nag",
+        "huave": "tiol"
+      }
+    },
+    {
+      "id": 202.0,
+      "gloss": "in",
+      "forms": {
+        "otomian": "ja, nu",
+        "Unnamed: 5": "ini",
+        "mazahua": "kja",
+        "chontal": "lema al"
+      }
+    },
+    {
+      "id": 203.0,
+      "gloss": "with (accompanying)",
+      "forms": {
+        "otomian": "-hu, -wi, ko",
+        "trique": "gà",
+        "Unnamed: 5": "xiin",
+        "zapotec_isthmus": "né2",
+        "totonac": "ta",
+        "huave": "lak"
+      }
+    },
+    {
+      "id": 204.0,
+      "gloss": "and",
+      "forms": {
+        "otomian": "ne",
+        "trique": "dò', nè",
+        "Unnamed: 5": "tin, ta",
+        "zapotec_isthmus": "ne2",
+        "huave": "i",
+        "chontal": "y"
+      }
+    },
+    {
+      "id": 205.0,
+      "gloss": "if",
+      "forms": {
+        "otomian": "nu'bu̲, ha",
+        "trique": "sese",
+        "Unnamed: 5": "vee",
+        "zapotec_isthmus": "pa2",
+        "totonac": "para",
+        "huave": "tiol",
+        "chontal": "janih"
+      }
+    },
+    {
+      "id": 206.0,
+      "gloss": "because",
+      "forms": {
+        "otomian": "ngetho, nge'ä",
+        "trique": "che'é rej",
+        "proto_mixtec": "*wati",
+        "Unnamed: 5": "chi",
+        "zapotec_isthmus": "pur1ti’3"
+      }
+    },
+    {
+      "id": 207.0,
+      "gloss": "name",
+      "forms": {
+        "otomian": "thuhu",
+        "trique": "se-chuvìi",
+        "proto_mixtec": "*sɨwɨʔ",
+        "Unnamed: 5": "kɨvɨ",
+        "zapotec_isthmus": "lá",
+        "Unnamed: 7": "lha",
+        "totonac": "takuwiní",
+        "popoluca": "nï’jy",
+        "chontal": "laftine"
+      }
+    },
+    {
+      "id": 208.0,
+      "gloss": "house",
+      "forms": {
+        "otomian": "nguu",
+        "trique": "ve'",
+        "proto_mixtec": "*weʔyi",
+        "Unnamed: 5": "ve'e",
+        "zapotec_isthmus": "yoo, lidxi",
+        "Unnamed: 7": "yo'o",
+        "mazahua": "ngumú",
+        "totonac": "chiki",
+        "popoluca": "tïjc",
+        "huave": "iom",
+        "chontal": "lajuł'"
+      }
+    },
+    {
+      "id": 209.0,
+      "gloss": "wall",
+      "forms": {
+        "otomian": "jot'i",
+        "trique": "tacóó ve'",
+        "proto_mixtec": "*nawà",
+        "Unnamed: 5": "nama",
+        "zapotec_isthmus": "cue’1 yoo3",
+        "Unnamed: 7": "ze'e",
+        "mazahua": "ndúngumú",
+        "chontal": "łaydał"
+      }
+    },
+    {
+      "id": 210.0,
+      "gloss": "deer",
+      "forms": {
+        "otomian": "hogu̲fani, fantho̲",
+        "trique": "xtaj",
+        "proto_mixtec": "*isu",
+        "Unnamed: 5": "idu",
+        "zapotec_isthmus": "bid1xi1ña2",
+        "Unnamed: 7": "yixe’, bezinha’yixe’",
+        "mazahua": "pjant'eje",
+        "totonac": "juki",
+        "popoluca": "jaychu",
+        "huave": "xukwaf",
+        "chontal": "łaxihnał, galwixgui, łomfahni"
+      }
+    },
+    {
+      "id": 211.0,
+      "gloss": "mouse",
+      "forms": {
+        "otomian": "ndongu",
+        "trique": "xtuu",
+        "proto_mixtec": "*tɨyɨ`ʔ",
+        "Unnamed: 5": "lusu",
+        "zapotec_isthmus": "bi1zi1ña2",
+        "Unnamed: 7": "bzinha",
+        "mazahua": "ngoo",
+        "totonac": "tsiya",
+        "popoluca": "tsujc",
+        "chontal": "łabi'fuh, gal.ledón"
+      }
+    },
+    {
+      "id": 212.0,
+      "gloss": "rabbit",
+      "forms": {
+        "otomian": "kwa",
+        "trique": "tucuya",
+        "Unnamed: 5": "leso",
+        "zapotec_isthmus": "le3xu1",
+        "Unnamed: 7": "beshjea",
+        "mazahua": "kjuaa",
+        "totonac": "skáu",
+        "popoluca": "cunux",
+        "chontal": "kaguo, łaga"
+      }
+    },
+    {
+      "id": 213.0,
+      "gloss": "eagle",
+      "forms": {
+        "otomian": "nxu̲ni",
+        "trique": "xtaa",
+        "Unnamed: 5": "ya'a",
+        "Unnamed: 7": "besia",
+        "mazahua": "zújnú",
+        "totonac": "píchawa",
+        "chontal": "galháguila (Spanish)"
+      }
+    },
+    {
+      "id": 214.0,
+      "gloss": "spider",
+      "forms": {
+        "otomian": "mexe",
+        "trique": "tachré",
+        "Unnamed: 5": "xindu'va",
+        "zapotec_isthmus": "bid1xi1guí3",
+        "Unnamed: 7": "becozj",
+        "mazahua": "mexe",
+        "totonac": "chawaná",
+        "popoluca": "pí’tpay",
+        "chontal": "galnoho"
+      }
+    },
+    {
+      "id": 215.0,
+      "gloss": "face",
+      "forms": {
+        "otomian": "hmi",
+        "trique": "rihaan",
+        "Unnamed: 5": "nuu",
+        "zapotec_isthmus": "lú",
+        "mazahua": "jmii",
+        "totonac": "lakán",
+        "popoluca": "windugït",
+        "chontal": "laha"
+      }
+    },
+    {
+      "id": 216.0,
+      "gloss": "body",
+      "forms": {
+        "otomian": "ndo'yo, jä'i",
+        "trique": "man",
+        "Unnamed: 5": "yɨkɨ kuñu",
+        "zapotec_isthmus": "ladi",
+        "Unnamed: 7": "cuinha",
+        "mazahua": "nzero",
+        "totonac": "mágni",
+        "chontal": "alcuerpo (Spanish)"
+      }
+    },
+    {
+      "id": 217.0,
+      "gloss": "navel",
+      "forms": {
+        "otomian": "ts'a̲i",
+        "trique": "stúj",
+        "proto_mixtec": "*lendu",
+        "Unnamed: 5": "xitɨ ko'o",
+        "zapotec_isthmus": "xqui1pi’3",
+        "Unnamed: 7": "xyicho’",
+        "mazahua": "sona",
+        "totonac": "tampusni",
+        "popoluca": "pútsïc",
+        "chontal": "ladu"
+      }
+    },
+    {
+      "id": 218.0,
+      "gloss": "finger",
+      "forms": {
+        "otomian": "nsa'ñe̲",
+        "trique": "ra'a",
+        "Unnamed: 5": "xini",
+        "zapotec_isthmus": "bicuini1 ná’2",
+        "Unnamed: 7": "xben",
+        "popoluca": "jïjp",
+        "chontal": "pofkibe"
+      }
+    },
+    {
+      "id": 219.0,
+      "gloss": "sick  (painful)",
+      "forms": {
+        "otomian": "da̲thi",
+        "trique": "ran'",
+        "Unnamed: 5": "ku'u",
+        "zapotec_isthmus": "huará",
+        "Unnamed: 7": "yizwe’ (sickness)",
+        "totonac": "tatatlay",
+        "huave": "ñukoy (pain)",
+        "chontal": "łafgwana, łaxtafba"
+      }
+    },
+    {
+      "id": 220.0,
+      "gloss": "needle",
+      "forms": {
+        "otomian": "yofni",
+        "trique": "cúú, cúú nuvá",
+        "Unnamed: 5": "yɨkɨ",
+        "zapotec_isthmus": "a1gu1xa’3 (Spanish)",
+        "totonac": "lixtokon, litsapan",
+        "popoluca": "aguxa (Spanish)",
+        "chontal": "łaguxa (Spanish)"
+      }
+    },
+    {
+      "id": 221.0,
+      "gloss": "clothing",
+      "forms": {
+        "otomian": "bitu",
+        "trique": "yatzéj",
+        "Unnamed: 5": "sa'ma, toto",
+        "zapotec_isthmus": "lari",
+        "Unnamed: 7": "xha",
+        "totonac": "slakát",
+        "popoluca": "jámuc",
+        "huave": "jely",
+        "chontal": "tsamalo (shirt)"
+      }
+    },
+    {
+      "id": 222.0,
+      "gloss": "thunder",
+      "forms": {
+        "otomian": "nga̲ni, ñu̲ni",
+        "trique": "tu'vii",
+        "Unnamed: 5": "taxan",
+        "Unnamed: 7": "chhachj, tin",
+        "totonac": "jilínit",
+        "popoluca": "ániway"
+      }
+    },
+    {
+      "id": 223.0,
+      "gloss": "lightning",
+      "forms": {
+        "otomian": "jwe̲i",
+        "trique": "ta'an tu'vii",
+        "Unnamed: 5": "taxan",
+        "zapotec_isthmus": "ra2yu1 (Spanish)",
+        "Unnamed: 7": "gozio'",
+        "totonac": "tajín, maglipa",
+        "chontal": "lixcaflayh"
+      }
+    },
+    {
+      "id": 224.0,
+      "gloss": "above",
+      "forms": {
+        "otomian": "maxo̲ts'e",
+        "trique": "nuvìì, xtà'",
+        "Unnamed: 5": "nɨnu",
+        "zapotec_isthmus": "lu",
+        "totonac": "taslmán",
+        "popoluca": "yucm",
+        "chontal": "aldonggáyh"
+      }
+    },
+    {
+      "id": 225.0,
+      "gloss": "below",
+      "forms": {
+        "otomian": "nga̲t'i, madu̲i",
+        "trique": "nicà'",
+        "proto_mixtec": "*nino",
+        "Unnamed: 5": "vee, nɨnu",
+        "zapotec_isthmus": "xa1gue1te’3",
+        "Unnamed: 7": "zi’rha",
+        "totonac": "tutsú",
+        "popoluca": "pa'tm",
+        "huave": "tiot",
+        "chontal": "alhogay"
+      }
+    },
+    {
+      "id": 226.0,
+      "gloss": "to cough",
+      "forms": {
+        "otomian": "hehe",
+        "trique": "achrínj",
+        "Unnamed: 5": "kayu",
+        "zapotec_isthmus": "rurú",
+        "totonac": "kujunun",
+        "popoluca": "ojp",
+        "chontal": "ditseł'hma"
+      }
+    },
+    {
+      "id": 227.0,
+      "gloss": "to buy",
+      "forms": {
+        "otomian": "ta̲i, po̲hó",
+        "trique": "ránj, xcaj",
+        "Unnamed: 5": "kuaan, sata, ki'in",
+        "zapotec_isthmus": "rizí'",
+        "totonac": "tamawá",
+        "huave": "-uñ",
+        "chontal": "dihnahma"
+      }
+    },
+    {
+      "id": 228.0,
+      "gloss": "to choose",
+      "forms": {
+        "otomian": "jwahni",
+        "trique": "narii, rii, une'",
+        "Unnamed: 5": "nakaxi",
+        "zapotec_isthmus": "ri1bí2",
+        "totonac": "lagsagnán",
+        "huave": "-rriujt",
+        "chontal": "dihuijf'ehma"
+      }
+    },
+    {
+      "id": 229.0,
+      "gloss": "to grow",
+      "forms": {
+        "otomian": "te",
+        "trique": "achij",
+        "Unnamed: 5": "kua'nu",
+        "zapotec_isthmus": "rigaa, ri1nii1si2",
+        "Unnamed: 7": "chhegorha",
+        "totonac": "stagnán",
+        "popoluca": "ye’cp",
+        "huave": "-tang",
+        "chontal": "didojhma"
+      }
+    },
+    {
+      "id": 230.0,
+      "gloss": "to open",
+      "forms": {
+        "otomian": "xoki, zo̲t'e",
+        "trique": "a'núj",
+        "proto_mixtec": "*nuneʔ",
+        "Unnamed: 5": "kuiña",
+        "zapotec_isthmus": "ru1xha1le’3, rie1le’3",
+        "Unnamed: 7": "wesalhja",
+        "totonac": "malakí",
+        "popoluca": "tïnawatsp",
+        "huave": "-lyejk",
+        "chontal": "dexihehma"
+      }
+    },
+    {
+      "id": 231.0,
+      "gloss": "to steal",
+      "forms": {
+        "otomian": "pe",
+        "trique": "yaj itùù",
+        "Unnamed: 5": "sakui'na",
+        "zapotec_isthmus": "riba'na'",
+        "totonac": "akaslanán",
+        "huave": "ñujty",
+        "chontal": "dinantsehma"
+      }
+    },
+    {
+      "id": 232.0,
+      "gloss": "to dream",
+      "forms": {
+        "otomian": "withä",
+        "trique": "a'nu'",
+        "Unnamed: 5": "xani",
+        "zapotec_isthmus": "riní' xcaanda'",
+        "Unnamed: 7": "yelha’ (noun)",
+        "totonac": "mansini",
+        "huave": "-my",
+        "chontal": "dibayohma"
+      }
+    },
+    {
+      "id": 233.0,
+      "gloss": "to cry",
+      "forms": {
+        "otomian": "zoni",
+        "trique": "ta'vee",
+        "Unnamed: 5": "kuaku",
+        "zapotec_isthmus": "ridxi",
+        "Unnamed: 7": "webez",
+        "totonac": "tasá",
+        "chontal": "dijojhma"
+      }
+    },
+    {
+      "id": 234.0,
+      "gloss": "to yawn",
+      "forms": {
+        "otomian": "hane",
+        "trique": "nacúún ... nej, 'na' nej rihaan",
+        "zapotec_isthmus": "ridxaga1 xcaan3da’1",
+        "totonac": "tapixkay (noun)",
+        "popoluca": "macájïp",
+        "huave": "-sapaw",
+        "chontal": "dijaf'ihma ga'wi"
+      }
+    },
+    {
+      "id": 235.0,
+      "gloss": "to cook",
+      "forms": {
+        "otomian": "ja tä, hoku̲hñuni",
+        "trique": "ri'yanj",
+        "Unnamed: 5": "chi'i",
+        "zapotec_isthmus": "rugaagui'",
+        "totonac": "magchá",
+        "popoluca": "tïnajcúp",
+        "chontal": "dimaq'uehma, dixaf'ihma"
+      }
+    },
+    {
+      "id": 236.0,
+      "gloss": "six",
+      "forms": {
+        "otomian": "rato",
+        "trique": "vatàn'",
+        "proto_mixtec": "*iyò",
+        "Unnamed: 5": "iñu",
+        "zapotec_isthmus": "xhoopa'",
+        "Unnamed: 7": "xope",
+        "mazahua": "ñanto",
+        "totonac": "chaxán",
+        "huave": "anajoyuf",
+        "chontal": "agamts'ús"
+      }
+    },
+    {
+      "id": 237.0,
+      "gloss": "seven",
+      "forms": {
+        "otomian": "yoto",
+        "trique": "chìj, ichìj",
+        "proto_mixtec": "*uxe",
+        "Unnamed: 5": "uxa",
+        "zapotec_isthmus": "gad1xe2",
+        "Unnamed: 7": "gaze",
+        "mazahua": "yencho",
+        "totonac": "tujún",
+        "huave": "ajayuf",
+        "chontal": "agaytsí"
+      }
+    },
+    {
+      "id": 238.0,
+      "gloss": "eight",
+      "forms": {
+        "otomian": "hñäto",
+        "trique": "tùnj, itùnj",
+        "proto_mixtec": "*one",
+        "Unnamed: 5": "una",
+        "zapotec_isthmus": "xho1no2",
+        "Unnamed: 7": "xono'",
+        "mazahua": "jñincho",
+        "totonac": "tsayán",
+        "huave": "anoyuf",
+        "chontal": "abaygo"
+      }
+    },
+    {
+      "id": 239.0,
+      "gloss": "nine",
+      "forms": {
+        "otomian": "gu̲to",
+        "trique": "ùùn",
+        "Unnamed: 5": "ɨɨn",
+        "zapotec_isthmus": "ga'",
+        "Unnamed: 7": "ga",
+        "mazahua": "nzincho",
+        "totonac": "najatsi",
+        "huave": "apekaf",
+        "chontal": "abel-la"
+      }
+    },
+    {
+      "id": 240.0,
+      "gloss": "ten",
+      "forms": {
+        "otomian": "re̲t’a",
+        "trique": "chì', ichì'",
+        "proto_mixtec": "*uxi",
+        "Unnamed: 5": "uxi",
+        "zapotec_isthmus": "chii",
+        "Unnamed: 7": "chi",
+        "mazahua": "dyecha",
+        "totonac": "kau",
+        "huave": "akapaf",
+        "chontal": "imbamah"
+      }
+    }
+  ]
+}
