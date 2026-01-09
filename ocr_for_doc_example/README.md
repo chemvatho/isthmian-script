@@ -136,7 +136,7 @@ If you use this tool in your research, please cite:
   title = {Isthmus Script OCR Pipeline},
   author = {University of Cologne, Institute of Linguistics},
   year = {2025},
-  url = {https://github.com/YOUR_USERNAME/isthmus-script-ocr}
+  url = {[https://github.com/YOUR_USERNAME/isthmus-script-ocr](https://github.com/chemvatho/isthmian-script/tree/main/ocr_for_doc_example)}
 }
 ```
 
