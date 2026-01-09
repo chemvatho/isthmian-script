@@ -1,0 +1,1064 @@
+--- Page 1 ---
+
+o
+
+inciples have shaped the format of this dictionary. The first is adherence
+ed convention, the second involves justification and support for choices
+the third is the principle of less is more. For the user’s convenience |
+
+‘ft here the individual parts of a dictionary entry one at a time, explain-
+#ese principles apply. Although I hope the user will also care to read the
+
+troduction following, which provides background material in consider-
+
+) the basic information here is crucial to the use of the dictionary,
+
+may contain up to seven parts, although brief ones may contain as few
+e seven parts are (1) the canonical form, (2) grammatical information,
+gloss, (4) the Spanish gloss, (5) attestations, (6) commentary, and
+Fe.
+
+AL FORM
+
+inical’ I mean that which is basic and can be related to other forms by
+es. The canonical form of a word not only regularizes the different
+mventions of the sources for this dictionary but also predicts, insofar as
+
+‘s inflectional paradigm—that is, what shape the word will take when
+
+id suffixes are added to it. (For details, please see the Introduction.)
+
+d is printed in capitals. For nouns, the absolutive suffix (-TLI, -TL, -LI, -IN)
+
+i from the stem by a hyphen. Vowels and consonants that are dropped in
+
+ted, derived, or compounded forms of the stem are parenthesized. A
+
+“ta vowel indicates that it is a long vowel. Glottal stops are printed as
+CH, UH, and HU does not indicate a glottal stop, however; these
+
+vo letters used together to represent a single sound) have their tradi-
+
+     
+   
+  
+ 
+  
+ 
+
+«hatl orthographic value.
+"¡Spanish, and English share the consonant represented by CH, and both
+
+Nahuatl conventionally alphabetize it after C. But Nahuatl has addi-
+
+$ : .
+¿Pry-consonants that are represented by digraphs, and these are treated in
+
+anner as CH is with respect to C. Hence, the initial alphabetical order
+
+ions of the dictionary reflects Nahuatl phonology rather than English or
+
+iventions of alphabetization. The sections have the following order A,
+
+E, HU, I, M,N, O, P, QU, T, TL, TZ, X, Y, Z. (No Nahuatl words begin
+
+Jottal stop.) Within these sections, for the user's convenience, conven-
+sh alphabetization is observed.
+
+fing of the canonical forms here is consistent with, although not quite
+
+} that used by J. Richard Andrews in his Classical Nahuatl textbook.
+
+uction discusses this in detail.) This is in the interest of ease of use,
+
+the exception of the H for glottal stop and Z for common ¢, the nota-
+
+--- Page 2 ---
+
+
+
+USER’S GUIDE |
+|
+
+ 
+
+tion is as close to traditional Nahuatl orthography as poss
+orthographic standardization that has characterized Nahy
+centuries. |
+The use of a diacritic, the macron over long vowels, do
+tion and poses no difficulty to the user of this dictionary.
+the colonial-period ¢ may find Z an inelegant substitutio}
+
+follow modern Spanish spelling conventions. The use of |
+
+stop, which traditionally has been indicated with a diacri
+make the search for Nahuatl words in this dictionary md
+ence of an H will upset the expected alphabetical order
+
+than where one would look in the dictionaries of Molina
+to find a word on the first search, that does not necessari
+missing from the dictionary. The burden is on the user tt
+with an H at the end of the first syllable, then the secon|
+ties have been exhausted. For instance, textual igahuia a
+someone’ and iztac ‘something white’ will be found und
+respectively. But i¢a or iza ‘to wake up’ will be found un
+
+There are quite a few pairs of words derived from a sir
+
+tion of the first consonant and vowel, one with a glottal
+a long vowel and no glottal stop, which are distinct in nj
+XEHXELOA ‘to divide something up into portions’ and |
+thing’, both from XELOA ‘to divide something’. It woull
+such pairs together for contrast, but, because of the con}
+tal stop as H, they are separated in this dictionary. To c¢
+member of the pair the other member is mentioned in t
+
+The reasons for introducing H with its attendant diffi!
+are several. First of all, when Andrews made it part of h
+ing a venerable precedent. Although glottal stops are na
+Molina’s 1571 dictionary, he uses h for the ones he does
+
+springs up time and again in colonial Nahuatl writing, ( :
+
+tive use of a diacritic for what was called the saltillo. Ti
+understanding of Nahuatl phonology. Whereas long and
+guished by a feature of pronunciation, namely duration
+the saltillo is in fact a consonant following a vowel, na
+the vowel itself. As a full consonant like any other (no;
+seem to English or Spanish speakers}, it can affect the ¢
+affixes are added to it. Hence, vowel length is appropri:
+while the glottal stop is appropriately written as a letté
+serves phonological accuracy, recent precedent, and on
+in doing so. This justification notwithstanding, I appre
+the user of the dictionary and hope that time and fami
+
+ 
+
+GRAMMATICAL INFORMATION |
+
+In the absence of specific grammatical information |
+word is inflected by the regular rules of Nahuatl morp
+
+USEI
+
+Three ;
+to establi
+made, an:
+will prese
+ing how t
+lengthier
+able detai
+
+An entr
+as two. T]
+{3} the En;
+(7) referen
+
+CANONI
+
+By ‘canc
+general rul
+spelling cc
+possible, it
+prefixes an
+
+The wor
+is separate
+some infle
+macron ov
+H. The H «
+digraphs (t
+tional Nah
+
+Nahuatl,
+Spanish an
+tional unit:
+the same n
+for the sect
+Spanish co:
+C, CH, CU
+with L or g:
+tional Engl:
+
+The spel}
+
+identical tc
+{The Introd
+since, with
+
+--- Page 3 ---
+
+
+
+xiii USER’S GUIDE
+
+ 
+
+retains its basic shape or changes in a way common to all stems with comparable
+shape and takes prefixes and suffixes as described in any Nahuatl reference gram-
+mar. If the inflection is unpredictable from the canonical form or irregular, and if
+the sources for this dictionary provide examples of the inflection, then this in-
+formation is given here, immediately following the canonical form of the word.
+Typically this will involve plural and possessive forms of nouns and preterit forms
+of verbs. If alternative forms of these are attested, the variants are given separated
+by a wavy line. If a regular phonological process is reflected orthographically, then
+it is given here even if it is predictable. For instance, the preterit form of NEM(I} ‘to
+live’ is NEN. The change of M to N is regular and predictable, but the preterit form
+is given as a reminder to the dictionary user.
+
+In the case of long words, when grammatical information concerns only the end,
+the whole word is not reproduced, but instead there is abbreviation to the last
+element, with a hyphen indicating that the preceding material remains unchanged.
+
+The grammatical section also indicates part of speech, such as postposition, par-
+ticle, exclamation, etc. If an entry is not specifically identified, the less-is-more
+principle is at work, and the part of speech is obvious from the gloss.
+
+Transitive verbs are those that require a direct object; intransitive ones do not
+take a direct object. An example of an English transitive verb is eat in the sentence
+‘He ate the food,’ while sing is intransitive in ‘She sang beautifully.’ English, how-
+ever, allows some latitude in transitivity, as illustrated by ‘He eats at noon every
+day’ and ‘She sang the song.’ On the other hand, Nahuatl strictly distinguishes
+transitive from intransitive verbs, and for that reason the transitive ones are labeled
+here. Generally speaking, transitive verbs may be used reflexively, in which case
+one performs some action upon oneself or to one’s own benefit or causes oneself to
+engage in some activity. But not all transitive verbs are in fact so used, and there
+are a few verbs in Nahuatl! which have come to be used exclusively reflexively. For
+this reason, verbs are labeled not only transitive but also reflexive if that use is
+attested. Here a convention established by Molina is observed, and the reflexive use
+is indicated before the transitive use, even though the former is a special case of the
+
+latter. By the less-is-more principle a verb not labeled reflexive and/or transitive is
+intransitive.
+
+ENGLISH GLOSS
+
+The aim of the English gloss is to convey the basic meaning of the word.
+
+This has sometimes resulted in an English gloss more literal than the following
+Spanish one, so the two should be taken together, the Spanish gloss amplifying the
+English one.
+
+If a word has more than one meaning, and they are at some distance from each
+other semantically, the different senses are given separated by a semicolon. On the
+other hand, there are some completely different words that happen to be homopho-
+nous (that is, to have identical canonical forms}, and in these cases there are sepa-
+rate main entries.
+
+Another use of the semicolon in the English gloss is with transitive verbs which
+
+--- Page 4 ---
+
+
+
+USER'S GUIDE xiv
+eee
+
+are also used reflexively. For such verbs the reflexive sense appears first, separated
+from the transitive gloss by a semicolon.
+
+For some transparent compound words no English gloss is given, but there is
+cross reference to the constituent parts. In the case of some common derived forms,
+there is also no gloss, but the reference section identifies what form it is. {Please
+see the section under Reference below.)
+
+SPANISH GLOSS
+
+Following the English gloss and separated from it by a slash is the Spanish gloss.
+By choice this is from Molina’s dictionary and is so identified by (M) after the gloss.
+As an aid to the user, I have modernized Molina’s Spanish spelling. Molina has
+separate entries for reflexive and transitive uses of verbs, with the reflexive preced-
+ing any and all others and Jater glosses often referring back to the reflexive gloss. I
+have followed the practice here, since it would be awkward to reorder them.
+
+When a gloss from Molina is not available, I have chosen one from another
+source or, in the few cases where no Spanish gloss has been available, I have writ-
+ten one myself and indicated that I have done so with (K}. Please see the list of
+abbreviations at the end of this guide for the other letters identifying sources.
+
+ATTESTATIONS
+
+Following the Spanish gloss there may be a list of attestations with the source
+identified by initial and the location by folio or page number. If no attestations are
+listed, the less-is-more principle is again at work; absence of such information
+means that the word is widely and consistently attested across sources.
+
+COMMENTARY
+
+The commentary typically contains information about inconsistency in attesta-
+tion, unexpected form or meaning, other words minimally contrasting in shape and
+susceptible to confusion, etc. The commentary section also provides room for
+substantial grammatical discussion where necessary and for comparison of literal
+meaning with conventional usage in cases where the two are rather far apart.
+
+Two symbols that appear in this section, always between two canonical forms,
+may be unfamiliar: < means that the first form is derived from the second, while >
+means that the first is the derivational source of the second.
+
+REFERENCE
+
+The references direct the user to other relevant entries in the dictionary. In the
+case of a compound word, the component elements are given here; in the case of a
+
+--- Page 5 ---
+
+
+
+xv USER’S GUIDE
+
+derived word, there is reference to the derivational source. In the case of applica-
+tive, causative, and nonactive verb forms, the cross reference indicates which it is
+and gives the basic verb from which it is formed. The reference section also identi-
+fies the source of words in which the initial syllable has been reduplicated.
+
+This dictionary is not intended to replace the great dictionaries of Molina and
+Siméon. Molina’s dictionary has approximately 23,600 entries, while this one has
+fewer than 9,000. The number of Molina’s entries is inflated by his practice of
+making separate main entries of reflexive and transitive uses of verbs and of having
+plural forms, insofar as he includes them, as main entries. On the other hand, this
+dictionary includes relatively more applicative and nonactive verb forms.
+
+But there are some simple, basic words that appear in Molina that are not at-
+tested in any of the sources for this dictionary. One example is eptli ‘oyster’. About
+this word we cannot know if the first vowel is long or short. Another omission is
+tlalalacatl ‘goose’, in which any of the first three syllables might contain a short
+vowel, a long vowel, or a short vowel and glottal stop. Because no source provides
+us with information about these words, they do not appear in this dictionary.
+
+On the other hand, many of the words Molina has that are missing from this
+dictionary are compound or derived forms, and the component parts are indeed in
+this dictionary. If the whole cannot be found here, the parts almost always can.
+
+This dictionary is rigid in its exclusion of Spanish loanwords, more so than
+Molina, who admitted several hundred, including cuentaxtli ‘rosary beads’ and
+hicox ‘fig’ from Spanish cuenta and higo, respectively. The reason for the relentless
+nativism of this dictionary is that loanwords exist in the language in all stages of
+assimilation to the phonology of the language, as can be seen in the two examples
+from Molina given here. As a result, it is rather meaningless to assign canonical
+forms to them, existing as they do in transit from one language to the other.
+
+To reiterate, this dictionary is not to displace Molina and Siméon. Its purpose is
+to provide two things not to be found in those two dictionaries: {1) modern English
+glosses and (2) information about long vowels and glottal stops in individual words.
+Spanish-based orthography for Nahuatl obscured the second, and this dictionary—
+the result of detailed comparative work—is a contribution to the renewed interest
+in the actual phonology of the language behind the traditional orthographic repre-
+sentation. If we are only in this decade returning to Horacio Carochi’s fold, still it
+is better late than never.
+
+If the user’s interest is only in glosses, the detailed commentary on phonology
+and conflicting attestations may seem very tedious, and the fact that this diction-
+ary is only a third as large as the previous ones may be a disappointment. I hope
+that the analytical aspect of the dictionary, expressed both in the English glosses
+and in the references between entries, will compensate. Let this dictionary join the
+others as fellow and companion, a means to explication and clarification; it is not
+intended as a competitor.
+
+If it could be done without increasing the bulk of this volume, I would want to
+print on every other page an exhortation to read the Introduction, which provides
+further keys to understanding and using this work. Please read it and return to it
+from time to time.
+
+--- Page 6 ---
+
+
+
+A
+
+A preterit-as-present verb; pret: AC to be
+present See AC.
+
+AAQU(I] to be soaked / se empapa {Z}
+[(3)JZp.49,139,181]. The literal sense of this
+is ‘to water-enter.’ Z has the reflex of AH
+instead of A-TL, but the sense is of A-TL,
+and Z has AH for A-TL elsewhere. See
+AQUII).
+
+AC pl: AQUIHQUEH {one} who; who? /
+¿quién? o ¿cuál? [M] This is the preterit
+agentive form derived from the existential
+verb A. It contrasts in vowel length with
+AC, the preterit form of AQU(I] ‘to enter.’
+See A, ACAH, AQUIN.
+
+ACACHACHA-TL pI: -MEH a type of grass-
+hopper, locust / otro género de Jangos-
+tas (M] [(1)Tp.169]. See ACA-TL,
+CHACHA-TL.
+
+ACACHIQUIHU(I)-TL reed basket / canasto
+hecho de cañas (M}, jicara para tortillas {X}
+((3}Xp.25]. The initial vowel is not marked
+long in the attestation. See ACA-TL,
+CHIQUIHU(I)-TL.
+
+ACACHTO first / primero, o primeramente
+(M] See ACATTO, ACATTOPA, ACHTO.
+
+ACACHTOPA first / primero, o primera-
+mente {M} See ACATTOPA, ACHTO.
+
+ACACHTOPAHUIA to be the first to do
+something / soy el primero que hago algo
+(C for first pers. sg.] See ACHTOPA,
+-HUIA.
+
+ACAH pl: -MEH someone / alguno [M) See
+AC.
+
+ACAHUAL-LI large, dry leaves for lighting
+ovens / yerbas secas y grandes para encen-
+der hornos (Mi [(4JTp.169,170,243]. The
+second vowel is attested long only once,
+but it should be long if the literal sense
+is ‘something dehydrated.’ See A-TL,
+CAHU(ÍA).
+
+ACAHUATOTO-TL small yellow or blue
+bird with gray on the back / pájaro (chico,
+amarillo o azul con gris sobre la espalda)
+
+(T) [(3)Tp.170,243]. See ACAHUAL-LI,
+TOTO-TL.
+
+ACALAQUIA vrefl,vt to dive; to submerge
+something / se bucea (de bucear), se mete
+en el agua (Z), meter algo debajo del agua,
+o hundirlo (M) [(2)Zp.21,167]. See Á-TL,
+CALAQU(]).
+
+ACAL-LI boat / navio, barca, canoa, etc. (M)
+The literal sense of this is ‘water-house.’
+See Á-TL, CAL-LI.
+
+ACALOAH a type of lizard that bites / un
+animal que muerde—parecido a la largatija
+(Z) [{1}Zp.139]. Z provides a picture which
+appears to be of a gila monster. The final H
+is uncharacteristic of native Nahuatl but is
+common to vowel-final loanwords.
+
+ACAMAPICH-TLI personal name
+Acamapichtli [(2}Bf.8r,9v]. See ACA-TL,
+MAPICH-TLI.
+
+ACAMAYA crayfish, crab / langostino (Z}
+{{2)Zp.25,139]. The attestation on Zp.139
+has an uncharacteristic final H as does
+ACALOAH.
+
+ACAPAH-TLI medicinal plant with radish-
+like leaves / planta medicinal semejante en
+las hojas al rabano [{1)Rp.57]. The initial
+vowel is not marked long in the attesta-
+tion. See ACA-TL, PAH-TLI.
+
+ACAPECH-TLI reed mat / petate de zacate
+(Z) [{1)Zp.1 39}. Z fails to mark the initial
+vowel long. See ACA-TL, PECH-TLI.
+
+ACAPETL{A)-TL reed mat / acapetate,
+petate de carrizo {T} {{1)Tp.70]. See
+ACA-TL, PETL(A}-TL.
+
+ACATEQU(I) See ACA-TL, TEQU(I).
+
+ACA-TL reed / cana (M)
+
+ACATTO first / primero (C} Cf.98r gives
+YACATTO as a variant. See ACACHTO,
+ACACHTOPA.
+
+ACATTOPA first / primero (C) Cf.98r gives
+YACATTOPA as a variant. See
+ACACHTOPA.
+
+ACAX(I)-TL pl: -TIN watering trough /
+
+--- Page 7 ---
+
+
+
+ACEC-TLI
+
+2
+
+ r —n—wv—
+
+alberca (M), pileta para tomar agua los
+animales (X) [(3]Xp.25]. X fails to mark the
+initial vowel long. See A-TL, CAX{I}-TL.
+ACEC-TLI icicles, ice in trees / hielo
+en Arbol (Z) {{2)Zp.67,141]. See A-TL,
+CEC-TLI.
+ACH dubitative particle possibly, one
+doesn’t know / part. que ordinariamente
+indica duda y a veces equivale a una nega-
+
+ción (S] Cf.125v gives ACHAH as a variant.
+
+Zp.139 gives ACHA ~ ACHA as variants.
+ACHAHNEL See ACH, AHNEL.
+ACHAHU(i)-TL swamp / charco, ciénaga (Z)
+_ [(3}Zp.28,139].
+
+ACHAUBTLAH swamp / ciénaga {Z)}
+[(2]Zp.28,139]. See ACHAHU(I}-TL,
+-TLAH.
+
+ACHCA often / a menudo, frecuentemente
+(C)
+
+ACHCAMPA one knows not where / no sé
+dénde (S) See ACH, -CAN, -PA.
+
+ACHCANIN one knows not where / no sé
+dónde (S) See ACH, CANIN.
+
+ACHCAUH-TLI elder brother; leader of
+youths / primogénito, hermano mayor de
+alguien, el jefe de alguien (S] This seems to
+be related to ACHTO ‘first,’ but there is a
+vowel-length discrepancy. See ACH-TLI,
+TACHCAUH, TIACHCAUH.
+
+ACHCHICA often / a menudo, o frecuente-
+mente {M} This is commonly written with
+only a single CH. Of six attestations in C,
+one has a marked long vowel in the second
+syllable.
+
+ACHCOL-LI great-grandfather, ancestor /
+bisabuelo ¡M for achtontli, which is
+in apposition with ACHCOL-LI in B}
+((4)B£.6v,71,8x,11v, (3)Xp.32]. All the attes-
+tations are possessed plurals with redupli-
+cation of the COL element: COHCOL.
+Two attestations have the first element
+with a specifically marked short vowel,
+two with a specifically marked long vowel.
+In the paired form ACHTON-TLI, BE.6v,
+the vowel of the first element is specifi-
+cally marked short. This is inconsistent
+with the first element of ACHCAUH-TLI
+‘elder brother,’ which is without exception
+marked long, but it agrees with ACHTO
+‘first.’ X appears to have reanalyzed the
+plural as a singular and dropped ACH. See
+COL-LI.
+
+ACHI a bit / un poco, o poca cosa, o
+en alguna manera (M] This appears to
+be an element in constructions where it
+has the contrary sense of ‘a lot, more,
+very much,’ as in ACHIPA ‘always,’
+ACHICUAL-LI ‘better.’ See the note with
+ACHIC. In some, but not all, construc-
+tions this has a final glottal stop, ACHIH.
+See ACHIHTETZIN, ACHIHTON,
+ACHIHTZIN.
+
+ACHIC just a short time / un poco de
+tiempo {C} C marks the vowel of the
+second syllable long in both this and the
+comparative particle ACHIC. R marks it
+long only in the comparative particle and
+says they are distinct. See ACHI.
+
+ACHIC particle used in making comparisons
+/ hay diferencia entre una persona, o cosa,
+y otra (C) This comparative ACHIC may be
+related in some way to the contradictory
+‘more’ sense of ACHI. See ACHI, IC.
+
+ACHICA See ACHCHICA.
+
+ACHICAHUAL-LI downpour / aguacero (X]
+[(x}Xp.25]. See A-TL, CHICAHU(A).
+
+ACHICAL-N pl: -TIN ~ -MEH nettle / ortiga
+(X) [[1JXp.25]. See ATZITZICAZ-TLI.
+
+ACHICUAL-LI better / mejor (C} See ACHI,
+CUAL-LI.
+
+ACHIHTETZIN a bit / un poco, un poquito
+(C) See ACHI.
+
+ACHIHTON a bit / un poco (M} See ACHI.
+
+ACHIHTÓNCA soon, a short time / un poco
+de tiempo (M) See ACHI.
+
+ACHIHTZIN a bit / un poquito, o poca cosa
+[M] See ACHI.
+
+ACHIHTZINCA soon, a short time / un
+poco de intervalo, o espacio de tiempo (M)
+See ACHI.
+
+ACHIHUAL-LI water used in milling,
+grinding / agua que se ocupa para moler {T}
+{(1]Tp.170]. See A-TL, CHIHUI[A).
+
+ACHIHUIA vrefí to wash one's hands while
+grinding maize / se lava las manos (mujer
+cuando muele) (T)] [[3)Tp.164]. See Á-TL,
+CHIHUIA).
+
+ACHIHUILO In the attestation of this on
+Tp.164 the vowel of the second syllable
+is incorrectly marked short. nonact.
+ACHIHUIA
+
+ACHIO-TL pl: -TIN ~ -MEH a tree (Bixa
+orellana) from the seeds of which is made a
+paste used as a seasoning and for coloring
+
+--- Page 8 ---
+
+
+
+AHACHI
+
+ 
+
+things orange / bija, fruto empleado en el
+teñido (S), achiote, fruto y árbol conocido
+(R) [{4}Xp.25, {1JRp.$8]. This is attested in
+R without diacritics. X has -TLI, implying
+a glottal stop at the end of the stem, but in
+general Nahuatl has -TL with this item.
+
+ACHIPA always / siempre (Z)
+
+- [l3)JZp.115,139,176).
+
+ACHITLACO-TL white staff / vara blanca
+(T) [(1)Tp.170]. See TLACÓ-TL.
+
+ACHTLEIN See ACH, TLEIN.
+
+ACH-TLI possessed form: -ACHYO seed /
+pepita o semilla (C) ([(2)Cf.x26v, (2)Rp.58].
+This seems to be related to XINÁCH-TLI
+'seed,' but there is a vowel-length discrep-
+ancy. It also seems to be related to the
+HUACH element of AYOHHUACH-TLI
+‘squash seed.’ It contrasts in vowel length
+with ACH-TLI ‘elder brother.’
+
+ACH-TLI elder brother (from the point of
+view of a younger sister] / hermano mayor
+de la hermana menor (€) [(1]Cf.126v,
+(1]Rp.59]. This seems to be related to
+ACHTO “first,' but there is a vowel-length
+discrepancy. It contrasts in vowel length
+with ACH-TLI ‘seed.’
+
+ACHTO first / primero, o primeramente (M)
+
+ACHTÓN-TLI great-grandfather, ancestor /
+bisabuelo (M) ([1)B£.6v]. See ACHTO,
+ACHCOL-LI.
+
+ACHTOPA first / primero, o primeramente
+(M] See ACHTO, ACACHTOPA,
+ACATTOPA.
+
+ACHTOPAHUIA vt to take the lead in some
+matter / guiar en alguna cosa o ser el
+primero en hacerla (R) |(1)Rp.48]. See
+ACHTOPA, -HUIA.
+
+ACHTZAN often / a menudo, frecuente-
+mente [C) Cf.rosv gives the variant
+ACHTZAH.
+
+ACIL-LI nit, louse egg / liendre (M)
+[(1JTp.108, (2)Zp.76,140]. Z gives a variant
+AHCILÍ-TL.
+
+ACOCIL-IN crayfish / acosil (animal)
+
+(T) [{1JFp.170, (x)Rp.s9]. R provides the
+characteristic -IN absolutive suffix of small
+animates. See A-TL.
+
+ACOCOA for a plant to suffer from over-
+watering / se enferma {planta} de tanta
+agua (T) [(1]Tp.164]. See A-TL, COCOA.
+
+ACOCOH-TLI acocote, name of several
+different squash plants / dos plantas
+
+medicinales semejante la una al nardo (R]
+[[1)Rp.sol.
+
+ACOHUA nonact. AQUÍI)
+
+ACOLHUAH person from Acolhuacan /
+fuerte, es también nombre de nación [R)
+
+_ {{x)Bf-12v, (1)Rp.59).
+
+ACOLHUAHCAN place name the realm of
+Texcoco |(2}Bf.4r,4v]. See A-TL,
+COLHUAHCAN.
+
+ACOLMAN place name Acolman
+[(1)C£.56v].
+
+ACOÓLMECA-TL resident of Acolman /
+natural de Acolman [(1]Cf. 56v].
+
+ACÓLMIZ-TLI personal name Acolmiztli
+[(3}BE.8r,9v,10v]. See MIZ-TLI.
+
+ACOLO-TL pl: -MEH crayfish / alacrán de
+agua (X) [(3)Xp.25]. The literal sense of this
+is ‘water-scorpion,’ as in the Spanish gloss.
+See A-TL, COLO-TL.
+
+ACOM(I)-TL water pot / tinaja de agua (M}
+X has the variant ACON-TLI. See A-TL,
+COM{I)-TL.
+
+ACOMOL-LI well, water hole / pozo (Z]
+[(1)Zp.139]. See ATLACOMOL-LI.
+
+ACONI who? / ;quién? (Z) [(1]Zp.139]. This
+form appears to be peculiar to Z. See AC.
+
+ACOZAMALO-TL rainbow / arco iris (T}
+See A-TL, COZAMALO-TL.
+
+ACTOC within / metido adentro (Z}
+[{1]Zp.139]. See AQUÍI), the verb O.
+
+ACUEYA-TL frog / rana (Z) See A-TL,
+CUEYA-TL.
+
+ACUI pret: -C to swim / nada (de nadar] (Z)
+[(1JZp.140]. Z has the reflex of AH rather
+than A-TL, but the sense demands the
+latter. See A-TL, CUI.
+
+ACXOYA-TL branches used in penitential
+offerings; fir / planta cuyas hojas eran
+utilizadas por los sacerdotes para recoger la
+sangre que se sacaban por penitencia {S}
+[(1]B£.1or, (1]Rp.58]).
+
+ACZA someone / alguien (Z) ({2}Zp.139,
+145]. See AC, ZA.
+
+AEHECA pret: -C to rain and be windy /
+llueve con viento (T] See A-TL, EHECA.
+AH- negative prefix not, un-, in- / negación,
+
+usado en comp. por amo, no (S)
+
+AHACHI not a little, much / abundante, hay
+muchos (T) [(2)Tp.221]. T gives this bound
+with ZAN, ZANAHACHL It is possible
+that this is a case of distributive reduplica-
+tion rather than negation in view of the
+
+--- Page 9 ---
+
+
+
+AHACHICHI
+
+ 
+
+‘more, very much’ sense of ACHI in some
+other constructions. See AH-, ACHI.
+
+AHACHICHI bit by bit / poco a poco {Z)
+[(1)Zp.139]. See ACHI.
+
+AHAHAHUILTIA double redup. AHUILTIA
+
+AHAHCI redup. AHCI
+
+AHAHCUI vrefi,vt to rise up; to raise some-
+thing up / se levanta (Z); lo levanta, lo alza,
+lo eleva (Z) [{3}Zp.143,168,185]. The sense
+of this suggests that it is a reduplicated
+form related to AHCOCUII).
+
+AHAHHUA redup. AHHUA
+
+AHAHHUALO nonact. AHAHHUA
+
+AHAHHBUILIA applic. AHAHHUA
+
+AHAHPAN(A) redup. AHPAN(A]
+
+AHAHUIA vt to moisten something /
+lo moja (Z) [(1}Zp.185]. This implies
+* AHUIA, of which this would be the
+reduplicated form. This contrasts with
+AHAHUIY{(A] ‘to take pleasure.’ See A-TL,
+-HUIA.
+
+AHAHUIL-LI licentiousness / liviandades
+(C) [(2)Cf.72r]. See AHAHUIY(A).
+
+AHAHUIY(A) pret: AHAHUIX to take
+pleasure / regocijarse mucho (C}. This
+contrasts with AHAHUIA ‘to moisten
+something.’ redup. AHUIY(A}
+
+AHAHXIHUA redup. AHXIHUA
+
+AHALAC-TLI alache, a fibrous, slippery
+plant {Sida rhombifolia} / malva simarrona
+(yerba) (T) |(1JTp.107]. See ALACTIC.
+
+AHALTIA redup. ALTIA
+
+AHALTILIA redup. applic. ALTIA
+
+AHALTILO redup. nonact. ALTIA
+
+AHAMATI(I) pret: -MAT to get damp / se
+humedece (T) [(1]Tp.107]. See A-TL.
+
+AHAMAXEHU()) to swell and ooze /
+se escalda (de comezón), se pone blan-
+quizca (la mano, etc.), se esponja (frijol,
+etc.), se enlama {T} ({1)Tp.107]. See
+AMAXCUITL(A)- -TL, -EHU()).
+
+AHAM(I) ((1JBf£. ror]. redup. AMII)
+
+AHAN(A) redup. AN(A}
+
+AHAQU(]} redup. AQU{])
+
+AHAQUIA vt to insert something repeat-
+edly / meter una cosa varias veces (S}
+{{2}Bf.71, 101]. This distributive form con-
+trasts with AHAQUIA ‘to moisten some-
+thing.’ redup. AQUIA
+
+AHAQUIA vt to moisten something / lo
+moja [Z) [(1]Zp.185}. This contrasts with
+
+AHAQUIA ‘to insert something repeat-
+edly.’ See A-TL.
+
+ABAQUILTIA redup. AQUILTIA
+AHATEMII) pret: -TEN to fill up with water,
+to flood / ser hidrdépico (M for atemi), se
+inunda {T) {{1)Tp.107]. See A-TL, TEM{I}.
+AHATOCO for things to be carried away by
+water / {corriente de agua) arrastra (muchas
+cosas) (T) [[1)Tp.107]. This is derived from
+
+the nonactive form of the verb. See A-TL,
+TOCA.
+
+AHATOLTIC something very ripe, soft /
+cosa muy blanda, como higo muy maduro,
+etc. (M), aguado, magullado [T) ((1)Tp.107].
+T does not mark the vowel of the second
+syllable long. See ATOL-LL
+
+AHAYII) redup. AY(I)
+
+AHAYIHUA redup. AYIHUA
+
+AHAYITIA redup. AYITIA
+
+AHCAMPA See AHCAN, -PA.
+
+AHCAN nowhere / en ninguna parte o lugar
+(M] See AH, -CÁN.
+
+AHCANMAH See AHCAN, MAH.
+
+AHCAZAYAC See AHCAZOMO, AYAC.
+
+AHCAZOMO perhaps not / quizá no (M] In
+one of two attestations R gives this with a
+glottal stop in the third syllable, but in
+four attestations in C there is no glottal
+stop indicated. See AH-.
+
+AHCEH See AHZO, (YJEH.
+
+AHCHIHU(A) vref! to be withdrawn,
+taken away / se quita (Z) [{1]Zp.168]. See
+AH-, CHIHU{A).
+
+AHCHIUHCAYO-TL something badly
+made / cosa mal hecha o desacierto (C)
+|{2)Cf121r]. The vowel of the second sylla-
+ble is not marked long in either attesta-
+tion. C gives AHTUHCAYO-TL as a syno-
+nym of this. See AH-, CHIHU{A].
+
+AHCI to reach, to arrive / llegar con la
+mano, o alcanzar con ella a donde algo
+está, o llegar al lugar donde voy (M) T
+has lost the internal glottal stop. AHCI
+compounds with other verbs by means of
+the -CA- ligature to convey a sense of
+achievement.
+
+AHCI vt to catch something with the hand,
+to reach for and take something / alcanzar
+con la mano a donde está la cosa (M] T
+has lost the internal glottal stop. A lexical-
+ized reflexive form of this conveys a sense
+
+--- Page 10 ---
+
+
+
+AHHUAYOHUA
+
+A —KÁ<X<XKS—
+
+of wholeness or completeness, as in
+MAHXITIA ‘to cause something to be-
+come complete.’ M has synonymous
+maxiltia and also macic ‘something
+whole,’ which can bind with verbs to mean
+‘completely.’
+
+AHCICACAQU(]) vt to understand some-
+thing completely / comprender o alcanzar
+a saber enteramente la cosa 0 el negocio
+(M} [(2]Rp.43,100]. See AHCI, CAQUiI).
+
+AHCICAITTA vt to perceive something, to
+know something well / advertir, conocer
+bien (R), ver algo perfectamente (M])
+[(2]Rp.59]. See AHCI, (I}JTTA.
+
+AHCICAMAT(I) vt to master something, to
+understand something completely / saber o
+entender algo perfectamente (M) [(1)Rp.s9].
+See AHCI, MATI{I).
+
+AHCITLAH See AHZO, ITLAH.
+
+AHCO above / arriba, 0 en lo alto (M)
+
+AHCOCU(D vrefl,vt; pret: AHCOC to rise
+up; to raise something up / levantarse de
+suelo, o empinarse el caballo, o revolar el
+ave, o batir las alas cuando quiere volar
+(M], alzar o levantar algo en alto (M) See
+AHCO, CUI.
+
+AHCOCUIHUA nonact. AHCOCU(I)
+AHCOHUETZ(I) to become calm, resigned /
+sosegarse y consolarse (M) [(1)Rp.59). Sce
+
+AHCO, HUETZ(I).
+
+AHCOHUIC upward / hacia arriba (M) See
+AHCO, -HUIC.
+
+AHCOL-LI shoulder / hombro {M]
+ll4JTp.127,139,(3)Zp.21,68,156). This
+invites analysis as a derivation from *CÓL
+‘something twisted, bent,’ but there is a
+difference in vowel length. See AHCO.
+
+AHCOLTEHTEQU(I) vreff to cut oneself
+in the shoulder / se corta el hombro (T)
+[[3)Tp.139]. See AHCOL-LI, TEHTEQU(]}.
+
+AHCOMAN(A) vrefl,vt to get worked up, to
+become disturbed; to disturb others /
+alborotarse, o turbarse (M]), alborotar a
+los otros (M] [(2JRp.59,108]. See AHCO,
+MAN(A).
+
+AHCOPA upward / de arriba, o hacia arriba
+(M} See AHCO, -PA
+
+AHCOPAHUAH highlander / arribeño (Z)
+[(1)Zp.140]. See AHCOPA.
+
+AHCOPAHUIC upward / arriba, hacia arriba
+
+{R] [{1]Rp.s9, (1}Pp.89]. See AHCOPA, -HUIC.
+
+AHCOPAITTA See AHCOPA, (IJTTA.
+
+AHCOPATLACHIY(A) See AHCOPA,
+TLACHIY(A).
+
+AHCOQUETZ(A) vt to build up something;
+to raise the bidding at an auction / aumen-
+tar o doblar el trabajo a otros, o pujar en
+almoneda (M), erigir, alivar {R} ({1}Rp.59].
+See AHCO, QUETZ(A), AHQUETZ(A)].
+
+AHCOTLACHIY(A] See AHCO,
+TLACHIY(A).
+
+AHCOTZICUIN(I) to leap up, jump / brinca
+de abajo arriba, salta (T] See AHCO,
+TZICUIN(I}.
+
+AHCUAL-LI something bad / cosa mala (M)
+The literal sense is ‘something not good.’
+See AH-, CUAL-LI.
+
+AHHUA vt to scold someone, to quarrel
+with someone, to irritate someone / reñir a
+otro (M}
+
+AHHUACHBUIA vt to irrigate, sprinkle
+something / lo riega, lo rocia (Z) See
+AHHUACH-TLI, -HUIA.
+
+AHHUACHIA vt to irrigate, sprinkle
+something / rociar a otro (M) See
+AHHUACH-TLI.
+
+AHHUACHPOC-TLI rain cloud / agua-
+viento (T) ((1)Tp.107]. See AHHUACH-TLI,
+POC-TLI.
+
+AHHUACHQUIYAHU() to rain lightly /
+loviznar (M) [{2}Tp.107]. See
+AHHUACH-TLI, QUIYAHU{])-TL.
+
+ABHUACHTELAHU()) pret: -TELAUH to
+begin to rain hard / empieza a llover de
+veras (T] [{1]Tp.107]. See AHHUACH-TLI,
+TELAHU(I).
+
+AHHUACH-TLI dew, drizzle, mist /
+rocio {K} This is implied by the many
+compounds of of which it is an element.
+
+AHHUACHTZITZICUICA to rain lightly /
+llovizna ligera (T) [(1)Tp.107]. See
+AHHUACH-TLI, TZITZICUICA.
+
+ABHUACHYOH something covered with
+dew / cosa que tiene rocio {M] [(1]Tp.107,
+(r}Rp.s8]. See AHHUACH-TLI, -YOH.
+
+AHHUALO nonact. AHHUA
+
+AHHUA-TL long, slender thorn / espina
+(M), espina delgada (Cj M puts the defini-
+tion of this together with the definition of
+AHUA-TL ‘oak’ and AHUA-TL, a type of
+caterpillar.
+
+AHHUAYOHUA to have an itch / tiene
+
