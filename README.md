@@ -4,6 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
+Please note that any use of this code or its associated results in other projects requires prior permission from the author. Unauthorized use, reproduction, or distribution of the code and results may constitute a violation of intellectual property rights.
 
 A computational approach to evaluating competing language family hypotheses for the undeciphered Isthmian (Epi-Olmec) script using Bayesian phonotactic analysis.
 
@@ -243,6 +244,10 @@ Contributions are welcome! Please feel free to submit issues or pull requests fo
 - Improved prior specifications
 - Additional data sources
 - Validation experiments
+
+## Acknowledgement 
+
+NotebookLM was utilized for conducting the literature review and drafting the research proposal, incorporating original documents and verified citations. Following the comprehensive review of the literature, Bayesian model comparison was applied as the primary analytical framework. Claude (Anthropic) was employed to support logical reasoning and algorithm design during the methodological development phase. By integrating these two AI-assisted research tools, a pilot project was subsequently developed and implemented, with the resulting framework documented in a dedicated GitHub repository.
 
 ## License
 
