@@ -6,10 +6,7 @@
 
 
 1. -Author: Dr. Chem Vatho (PhD in Phonetics, University of Cologne: 2022-25)
-2. -Submission for Posdoctoral position: Research Proposal for VolkswagenStiftung Project
-3. -Project: Exploring an unknown language in an unknown writing system: The Isthmus script
-4. -Institution: University of Cologne, Department of Linguistics
-5. -Led by: Dr. Svenja Bonmann 
+
 
 A computational approach to evaluating competing language family hypotheses for the undeciphered Isthmian (Epi-Olmec) script using Bayesian phonotactic analysis.
 
@@ -253,10 +250,6 @@ Contributions are welcome! Please feel free to submit issues or pull requests fo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-This research is conducted as part of a postdoctoral proposal for the VolkswagenStiftung-funded project "Exploring an unknown language in an unknown writing system: The Isthmus script" at the University of Cologne.
 
 ## Citation
 
