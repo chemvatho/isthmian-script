@@ -5,9 +5,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 
-1. -Author: Dr. Chem Vatho (PhD in Phonetics, University of Cologne: 2022-25)
-
-
 A computational approach to evaluating competing language family hypotheses for the undeciphered Isthmian (Epi-Olmec) script using Bayesian phonotactic analysis.
 
 ## Overview
